@@ -1,0 +1,25 @@
+<ng-container *ngIf="season$ | async as season">
+  <div *ngIf="stage$ | async as stage" class="between align">
+    <img
+      src="/back.gif"
+      (click)="prevStage()"
+      class="link red-to-orange"
+      [class.disable]="stage === 'First Round'"
+    />
+    <h2>{{ season | season }} {{ stage }}</h2>
+    <img
+      src="/next.gif"
+      (click)="nextStage()"
+      class="link red-to-orange"
+      [class.disable]="stage === 'Finals'"
+    />
+  </div>
+
+  <div *ngIf="playoffs$ | async as playoffs" class="column align gap space">
+    <playoff-card
+      *ngFor="let p of playoffs"
+      [playoff]="p"
+      [season]="season"
+    ></playoff-card>
+  </div>
+</ng-container>

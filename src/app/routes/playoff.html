@@ -1,0 +1,19 @@
+<ng-container *ngIf="playoff$ | async as playoff">
+  <h1>{{ playoff.teams[0] | teamName }} x {{ playoff.teams[1] | teamName }}</h1>
+  <h3>Best of {{ bestOf$ | async }}</h3>
+</ng-container>
+
+<player *ngIf="vhs$ | async as vhs" [vhs]="vhs"></player>
+
+<div *ngIf="games$ | async as games" class="evenly">
+  <p
+    *ngFor="let game of games; index as i"
+    [class.active]="i === (index$ | async)"
+    [class.primary]="game"
+    [class.link]="game"
+    [class.text-disable]="!game"
+    (click)="setGame(i)"
+  >
+    Game {{ i + 1 }}
+  </p>
+</div>

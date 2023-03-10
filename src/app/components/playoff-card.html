@@ -1,0 +1,11 @@
+<div
+  class="gap link"
+  [class.disable]="availability === 'none'"
+  routerLink="/playoff/{{ playoff.id }}"
+>
+  <img
+    *ngFor="let teamId of (playoff.teams)"
+    class="pixelate hardcoded-size"
+    [src]="teamId | teamLogo:season"
+  />
+</div>

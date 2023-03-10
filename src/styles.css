@@ -1,0 +1,114 @@
+@font-face {
+  font-family: "pixel";
+  src: url("/pixel.ttf");
+}
+
+body {
+  font-family: "pixel";
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 50px 25px;
+  color: #333;
+}
+
+div {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  color: orangered;
+}
+
+a:visited {
+  color: salmon;
+}
+
+.link {
+  cursor: pointer;
+}
+
+/* display */
+.block {
+  display: block;
+}
+
+.grid {
+  display: grid;
+}
+
+/* flex */
+.evenly {
+  justify-content: space-evenly;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.center {
+  justify-content: center;
+}
+
+.align {
+  align-items: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.gap {
+  gap: 30px;
+}
+
+/* img */
+.pixelate {
+  image-rendering: pixelated;
+}
+
+.red-to-orange {
+  filter: hue-rotate(-45deg);
+}
+
+.hardcoded-size {
+  height: 100px;
+  width: 100px;
+}
+
+/* random */
+.disable {
+  filter: grayscale(1);
+  pointer-events: none;
+}
+
+.text-disable {
+  color: darkgray;
+  pointer-events: none;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.small {
+  transform: scale(0.8);
+}
+
+/* text */
+.primary {
+  color: orangered;
+}
+
+/* space */
+.space {
+  margin-top: 30px;
+}

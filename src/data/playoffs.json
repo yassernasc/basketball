@@ -1,0 +1,4454 @@
+[
+  {
+    "id": "81cdf8de-4101-4f05-a014-4a088556c135",
+    "teams": [11, 27],
+    "games": [
+      { "host": 11, "visitor": 27, "date": "1980-04-02", "vhs": [] },
+      { "host": 27, "visitor": 11, "date": "1980-04-04", "vhs": [] },
+      { "host": 11, "visitor": 27, "date": "1980-04-06", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1980
+  },
+  {
+    "id": "50543007-d88d-4aff-b92b-8af93d014560",
+    "teams": [25, 31],
+    "games": [
+      { "host": 31, "visitor": 25, "date": "1980-04-02", "vhs": [] },
+      { "host": 25, "visitor": 31, "date": "1980-04-04", "vhs": [] },
+      { "host": 31, "visitor": 25, "date": "1980-04-06", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1980
+  },
+  {
+    "id": "a1c56231-8ff1-4b6a-956e-08fc583c4ee9",
+    "teams": [17, 31],
+    "games": [
+      { "host": 31, "visitor": 17, "date": "1980-04-08", "vhs": [] },
+      { "host": 31, "visitor": 17, "date": "1980-04-09", "vhs": [] },
+      { "host": 17, "visitor": 31, "date": "1980-04-11", "vhs": [] },
+      { "host": 17, "visitor": 31, "date": "1980-04-13", "vhs": [] },
+      { "host": 31, "visitor": 17, "date": "1980-04-15", "vhs": [] },
+      { "host": 17, "visitor": 31, "date": "1980-04-18", "vhs": [] },
+      { "host": 31, "visitor": 17, "date": "1980-04-20", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1980
+  },
+  {
+    "id": "e530b167-16b5-44fc-9295-ca2eca0137e3",
+    "teams": [14, 24],
+    "games": [
+      { "host": 14, "visitor": 24, "date": "1980-04-08", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1980-04-09", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1980-04-11", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1980-04-13", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1980-04-15", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1980
+  },
+  {
+    "id": "db90fa4d-a28a-4b8e-b1ca-622f70bb21cc",
+    "teams": [2, 11],
+    "games": [
+      { "host": 2, "visitor": 11, "date": "1980-04-09", "vhs": [] },
+      { "host": 2, "visitor": 11, "date": "1980-04-11", "vhs": [] },
+      { "host": 11, "visitor": 2, "date": "1980-04-13", "vhs": [] },
+      { "host": 11, "visitor": 2, "date": "1980-04-14", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1980
+  },
+  {
+    "id": "a13f968f-1795-4c62-a99a-9ffcd62abc17",
+    "teams": [24, 33],
+    "games": [
+      { "host": 24, "visitor": 33, "date": "1980-04-02", "vhs": [] },
+      { "host": 33, "visitor": 24, "date": "1980-04-04", "vhs": [] },
+      { "host": 24, "visitor": 33, "date": "1980-04-06", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1980
+  },
+  {
+    "id": "9341c16a-4eab-40e7-a7d3-9635026de9fa",
+    "teams": [2, 23],
+    "games": [
+      { "host": 2, "visitor": 23, "date": "1980-04-18", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1980-04-20", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1980-04-23", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1980-04-25", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1980-04-27", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1980
+  },
+  {
+    "id": "0f5985bc-1438-4122-867c-2635ec479a56",
+    "teams": [14, 31],
+    "games": [
+      { "host": 14, "visitor": 31, "date": "1980-04-22", "vhs": [] },
+      { "host": 14, "visitor": 31, "date": "1980-04-23", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1980-04-25", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1980-04-27", "vhs": [] },
+      { "host": 14, "visitor": 31, "date": "1980-04-30", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1980
+  },
+  {
+    "id": "59ad97b7-dbbe-40ea-aff4-613172b6054d",
+    "teams": [14, 23],
+    "games": [
+      {
+        "host": 14,
+        "visitor": 23,
+        "date": "1980-05-04",
+        "vhs": ["PL6CCD87D78D5766CA"]
+      },
+      {
+        "host": 14,
+        "visitor": 23,
+        "date": "1980-05-07",
+        "vhs": ["PLF12FD7649FCA0EB9"]
+      },
+      {
+        "host": 23,
+        "visitor": 14,
+        "date": "1980-05-10",
+        "vhs": ["PLCBD52C48FEF2BE4D"]
+      },
+      { "host": 23, "visitor": 14, "date": "1980-05-11", "vhs": [] },
+      {
+        "host": 14,
+        "visitor": 23,
+        "date": "1980-05-14",
+        "vhs": ["7T7eaI0jQAE", "PLE98E0D72C3BDF964"]
+      },
+      {
+        "host": 23,
+        "visitor": 14,
+        "date": "1980-05-16",
+        "vhs": [
+          "pUslmJVj570",
+          "2T2z658blzE",
+          "sGFf0VRmAwM",
+          "kCF27eKJRAs",
+          "PL3F4181BEFB408D7E"
+        ]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1980
+  },
+  {
+    "id": "cf11c423-9187-4d7e-b45d-757602a8ec63",
+    "teams": [23, 32],
+    "games": [
+      { "host": 23, "visitor": 32, "date": "1980-04-02", "vhs": [] },
+      { "host": 32, "visitor": 23, "date": "1980-04-04", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1980
+  },
+  {
+    "id": "7ff8dd25-3afb-48dc-a385-ffe59efb80bb",
+    "teams": [1, 23],
+    "games": [
+      { "host": 23, "visitor": 1, "date": "1980-04-06", "vhs": [] },
+      { "host": 23, "visitor": 1, "date": "1980-04-09", "vhs": [] },
+      { "host": 1, "visitor": 23, "date": "1980-04-10", "vhs": [] },
+      { "host": 1, "visitor": 23, "date": "1980-04-13", "vhs": [] },
+      { "host": 23, "visitor": 1, "date": "1980-04-15", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1980
+  },
+  {
+    "id": "f97f8d3b-b44d-4e13-9ebe-6f1743207ce6",
+    "teams": [5, 20],
+    "games": [
+      { "host": 20, "visitor": 5, "date": "1981-03-31", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1981-04-03", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1981
+  },
+  {
+    "id": "48fdbfdb-49c3-410d-8efd-7b2f31ed9382",
+    "teams": [25, 33],
+    "games": [
+      { "host": 25, "visitor": 33, "date": "1981-04-01", "vhs": [] },
+      { "host": 33, "visitor": 25, "date": "1981-04-03", "vhs": [] },
+      { "host": 25, "visitor": 33, "date": "1981-04-05", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1981
+  },
+  {
+    "id": "50a57c34-ce54-448e-ace9-d3f327ace5ee",
+    "teams": [12, 23],
+    "games": [
+      { "host": 23, "visitor": 12, "date": "1981-03-31", "vhs": [] },
+      { "host": 12, "visitor": 23, "date": "1981-04-02", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1981
+  },
+  {
+    "id": "a9a87797-dc3b-45ef-b7db-0788203f3951",
+    "teams": [11, 14],
+    "games": [
+      { "host": 14, "visitor": 11, "date": "1981-04-01", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1981-04-03", "vhs": [] },
+      { "host": 14, "visitor": 11, "date": "1981-04-05", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1981
+  },
+  {
+    "id": "69b03ec9-2785-4274-96de-1f463965fd5f",
+    "teams": [2, 5],
+    "games": [
+      { "host": 2, "visitor": 5, "date": "1981-04-05", "vhs": [] },
+      { "host": 2, "visitor": 5, "date": "1981-04-07", "vhs": [] },
+      { "host": 5, "visitor": 2, "date": "1981-04-10", "vhs": [] },
+      { "host": 5, "visitor": 2, "date": "1981-04-12", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1981
+  },
+  {
+    "id": "d057da79-00f7-4e39-bb41-2970e0b3f703",
+    "teams": [17, 23],
+    "games": [
+      { "host": 23, "visitor": 17, "date": "1981-04-05", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1981-04-07", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1981-04-10", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1981-04-12", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1981-04-15", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1981-04-17", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1981-04-19", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1981
+  },
+  {
+    "id": "2f424791-9280-4543-abe0-3676f9334141",
+    "teams": [24, 33],
+    "games": [
+      { "host": 24, "visitor": 33, "date": "1981-04-07", "vhs": [] },
+      { "host": 24, "visitor": 33, "date": "1981-04-08", "vhs": [] },
+      { "host": 33, "visitor": 24, "date": "1981-04-10", "vhs": [] },
+      { "host": 33, "visitor": 24, "date": "1981-04-12", "vhs": [] },
+      { "host": 24, "visitor": 33, "date": "1981-04-15", "vhs": [] },
+      { "host": 33, "visitor": 24, "date": "1981-04-17", "vhs": [] },
+      { "host": 24, "visitor": 33, "date": "1981-04-19", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1981
+  },
+  {
+    "id": "c4a26a3f-3a73-4cf6-938f-c8f25d8b53f8",
+    "teams": [11, 27],
+    "games": [
+      { "host": 27, "visitor": 11, "date": "1981-04-07", "vhs": [] },
+      { "host": 27, "visitor": 11, "date": "1981-04-08", "vhs": [] },
+      { "host": 11, "visitor": 27, "date": "1981-04-10", "vhs": [] },
+      { "host": 11, "visitor": 27, "date": "1981-04-12", "vhs": [] },
+      { "host": 27, "visitor": 11, "date": "1981-04-14", "vhs": [] },
+      { "host": 11, "visitor": 27, "date": "1981-04-15", "vhs": [] },
+      { "host": 27, "visitor": 11, "date": "1981-04-17", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1981
+  },
+  {
+    "id": "a03f7bb5-c70b-42cd-bb61-76dde56b0ce1",
+    "teams": [2, 23],
+    "games": [
+      { "host": 2, "visitor": 23, "date": "1981-04-21", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1981-04-22", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1981-04-24", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1981-04-26", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1981-04-29", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1981-05-01", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1981-05-03", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1981
+  },
+  {
+    "id": "a9725925-132a-4054-a0da-9b284111204f",
+    "teams": [11, 33],
+    "games": [
+      { "host": 33, "visitor": 11, "date": "1981-04-21", "vhs": [] },
+      { "host": 33, "visitor": 11, "date": "1981-04-22", "vhs": [] },
+      { "host": 11, "visitor": 33, "date": "1981-04-24", "vhs": [] },
+      { "host": 11, "visitor": 33, "date": "1981-04-26", "vhs": [] },
+      { "host": 33, "visitor": 11, "date": "1981-04-29", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1981
+  },
+  {
+    "id": "b399f608-7969-49c9-9b8a-4e7e6160f240",
+    "teams": [2, 11],
+    "games": [
+      {
+        "host": 2,
+        "visitor": 11,
+        "date": "1981-05-05",
+        "vhs": ["yp2g2gkVzxY"]
+      },
+      { "host": 2, "visitor": 11, "date": "1981-05-07", "vhs": [] },
+      { "host": 11, "visitor": 2, "date": "1981-05-09", "vhs": [] },
+      { "host": 11, "visitor": 2, "date": "1981-05-10", "vhs": [] },
+      { "host": 2, "visitor": 11, "date": "1981-05-12", "vhs": [] },
+      { "host": 11, "visitor": 2, "date": "1981-05-14", "vhs": [] }
+    ],
+    "stage": "Finals",
+    "season": 1981
+  },
+  {
+    "id": "5317fb7f-c7a1-4301-98c4-05551dc32f4b",
+    "teams": [32, 34],
+    "games": [
+      {
+        "host": 34,
+        "visitor": 32,
+        "date": "1982-04-20",
+        "vhs": ["QdCG5R5XAxE"]
+      },
+      { "host": 32, "visitor": 34, "date": "1982-04-23", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1982
+  },
+  {
+    "id": "87871e60-3368-45ec-b8d3-9d209ec03abe",
+    "teams": [11, 31],
+    "games": [
+      { "host": 31, "visitor": 11, "date": "1982-04-21", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1982-04-23", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1982-04-25", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1982
+  },
+  {
+    "id": "bc381a03-559b-4e3b-8ed4-ffa3644d195c",
+    "teams": [8, 24],
+    "games": [
+      { "host": 8, "visitor": 24, "date": "1982-04-20", "vhs": [] },
+      { "host": 24, "visitor": 8, "date": "1982-04-23", "vhs": [] },
+      { "host": 8, "visitor": 24, "date": "1982-04-24", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1982
+  },
+  {
+    "id": "e3454475-d1ca-4819-a260-0e4a7ecca6c6",
+    "teams": [17, 23],
+    "games": [
+      { "host": 23, "visitor": 17, "date": "1982-04-25", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1982-04-28", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1982-05-01", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1982-05-02", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1982-05-05", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1982-05-07", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1982
+  },
+  {
+    "id": "7460e44f-21e7-4aac-b74e-3509e382e868",
+    "teams": [2, 32],
+    "games": [
+      { "host": 2, "visitor": 32, "date": "1982-04-25", "vhs": [] },
+      { "host": 2, "visitor": 32, "date": "1982-04-28", "vhs": [] },
+      { "host": 32, "visitor": 2, "date": "1982-05-01", "vhs": [] },
+      { "host": 32, "visitor": 2, "date": "1982-05-02", "vhs": [] },
+      { "host": 2, "visitor": 32, "date": "1982-05-05", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1982
+  },
+  {
+    "id": "7c8098c8-9dea-4b89-9eb6-05cbb1bfb882",
+    "teams": [27, 31],
+    "games": [
+      { "host": 31, "visitor": 27, "date": "1982-04-27", "vhs": [] },
+      { "host": 31, "visitor": 27, "date": "1982-04-28", "vhs": [] },
+      { "host": 27, "visitor": 31, "date": "1982-04-30", "vhs": [] },
+      { "host": 27, "visitor": 31, "date": "1982-05-02", "vhs": [] },
+      { "host": 31, "visitor": 27, "date": "1982-05-05", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1982
+  },
+  {
+    "id": "56a8b27a-8ff6-4fb2-a515-f2e5113cb6e7",
+    "teams": [14, 24],
+    "games": [
+      { "host": 14, "visitor": 24, "date": "1982-04-27", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1982-04-28", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1982-04-30", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1982-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1982
+  },
+  {
+    "id": "dfe4f565-c9ff-4a96-92ee-731bea17a503",
+    "teams": [14, 27],
+    "games": [
+      { "host": 14, "visitor": 27, "date": "1982-05-09", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1982-05-11", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1982-05-14", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1982-05-15", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1982
+  },
+  {
+    "id": "98421119-3fb3-479d-94ea-fa124480ffe3",
+    "teams": [2, 23],
+    "games": [
+      { "host": 2, "visitor": 23, "date": "1982-05-09", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1982-05-12", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1982-05-15", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1982-05-16", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1982-05-19", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1982-05-21", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1982-05-23", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1982
+  },
+  {
+    "id": "e1121a34-c2c0-4904-a8a7-ee3198290e7b",
+    "teams": [14, 23],
+    "games": [
+      {
+        "host": 23,
+        "visitor": 14,
+        "date": "1982-05-27",
+        "vhs": ["PL7A654B8A16678D52"]
+      },
+      {
+        "host": 23,
+        "visitor": 14,
+        "date": "1982-05-30",
+        "vhs": ["PLE4AE6C543F000AD7"]
+      },
+      { "host": 14, "visitor": 23, "date": "1982-06-01", "vhs": [] },
+      {
+        "host": 14,
+        "visitor": 23,
+        "date": "1982-06-03",
+        "vhs": ["8mVp78CECqE", "PLFC3F36E8EEBAA852"]
+      },
+      {
+        "host": 23,
+        "visitor": 14,
+        "date": "1982-06-06",
+        "vhs": ["PL11E40D6B15C0F95B"]
+      },
+      {
+        "host": 14,
+        "visitor": 23,
+        "date": "1982-06-08",
+        "vhs": ["PL46B27BA42832CBD4"]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1982
+  },
+  {
+    "id": "d7e35fb7-5df5-439a-8d32-83915719d27d",
+    "teams": [1, 23],
+    "games": [
+      { "host": 23, "visitor": 1, "date": "1982-04-21", "vhs": [] },
+      { "host": 1, "visitor": 23, "date": "1982-04-23", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1982
+  },
+  {
+    "id": "da88b3df-9c3a-4925-96ce-3f7531d19a45",
+    "teams": [8, 24],
+    "games": [
+      { "host": 24, "visitor": 8, "date": "1983-04-19", "vhs": [] },
+      { "host": 8, "visitor": 24, "date": "1983-04-21", "vhs": [] },
+      { "host": 24, "visitor": 8, "date": "1983-04-24", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1983
+  },
+  {
+    "id": "dff052f6-88a1-474e-89f4-de8e1618b8c5",
+    "teams": [20, 34],
+    "games": [
+      { "host": 34, "visitor": 20, "date": "1983-04-20", "vhs": [] },
+      { "host": 20, "visitor": 34, "date": "1983-04-21", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1983
+  },
+  {
+    "id": "6b830e11-f0fc-46cb-b0bf-692ce64e033c",
+    "teams": [1, 2],
+    "games": [
+      { "host": 2, "visitor": 1, "date": "1983-04-19", "vhs": [] },
+      { "host": 1, "visitor": 2, "date": "1983-04-22", "vhs": [] },
+      { "host": 2, "visitor": 1, "date": "1983-04-24", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1983
+  },
+  {
+    "id": "ad6d4448-3e2c-43c5-82ff-6618bad1b677",
+    "teams": [14, 25],
+    "games": [
+      { "host": 14, "visitor": 25, "date": "1983-04-24", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1983-04-26", "vhs": [] },
+      {
+        "host": 25,
+        "visitor": 14,
+        "date": "1983-04-29",
+        "vhs": ["tCCa5ZvrpGs"]
+      },
+      { "host": 25, "visitor": 14, "date": "1983-05-01", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1983-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1983
+  },
+  {
+    "id": "8f7c72d5-f95e-430a-b12b-09049fcf0f3e",
+    "teams": [20, 23],
+    "games": [
+      { "host": 23, "visitor": 20, "date": "1983-04-24", "vhs": [] },
+      { "host": 23, "visitor": 20, "date": "1983-04-27", "vhs": [] },
+      { "host": 20, "visitor": 23, "date": "1983-04-30", "vhs": [] },
+      { "host": 20, "visitor": 23, "date": "1983-05-01", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1983
+  },
+  {
+    "id": "fd47b924-2a71-46a5-a653-26c6264168ea",
+    "teams": [25, 31],
+    "games": [
+      { "host": 31, "visitor": 25, "date": "1983-04-20", "vhs": [] },
+      { "host": 25, "visitor": 31, "date": "1983-04-22", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1983
+  },
+  {
+    "id": "c4ff8e86-0654-44fd-a7f6-0007ba8d542d",
+    "teams": [2, 17],
+    "games": [
+      { "host": 2, "visitor": 17, "date": "1983-04-27", "vhs": [] },
+      { "host": 2, "visitor": 17, "date": "1983-04-29", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1983-05-01", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1983-05-02", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1983
+  },
+  {
+    "id": "44b50e08-550d-41c7-a636-7374e08baae6",
+    "teams": [8, 27],
+    "games": [
+      { "host": 27, "visitor": 8, "date": "1983-04-26", "vhs": [] },
+      { "host": 27, "visitor": 8, "date": "1983-04-27", "vhs": [] },
+      { "host": 8, "visitor": 27, "date": "1983-04-29", "vhs": [] },
+      { "host": 8, "visitor": 27, "date": "1983-05-02", "vhs": [] },
+      { "host": 27, "visitor": 8, "date": "1983-05-04", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1983
+  },
+  {
+    "id": "3521fc60-317c-469f-95ec-b25cc12de409",
+    "teams": [17, 23],
+    "games": [
+      {
+        "host": 23,
+        "visitor": 17,
+        "date": "1983-05-08",
+        "vhs": ["4pZRMXGthgM"]
+      },
+      { "host": 23, "visitor": 17, "date": "1983-05-11", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1983-05-14", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1983-05-15", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1983-05-18", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1983
+  },
+  {
+    "id": "beff98ed-4506-42f8-a857-3772984187e5",
+    "teams": [14, 27],
+    "games": [
+      { "host": 14, "visitor": 27, "date": "1983-05-08", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1983-05-10", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1983-05-13", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1983-05-15", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1983-05-18", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1983-05-20", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1983
+  },
+  {
+    "id": "ca760f8c-a007-4d8b-932e-8c00071ea9cf",
+    "teams": [14, 23],
+    "games": [
+      {
+        "host": 23,
+        "visitor": 14,
+        "date": "1983-05-22",
+        "vhs": ["PLEE00D749175924DC"]
+      },
+      {
+        "host": 23,
+        "visitor": 14,
+        "date": "1983-05-26",
+        "vhs": ["I7CgwBb1Fxk", "PL4D97195E2B5536AA"]
+      },
+      {
+        "host": 14,
+        "visitor": 23,
+        "date": "1983-05-29",
+        "vhs": ["PLB4CA2F16E2985616"]
+      },
+      {
+        "host": 14,
+        "visitor": 23,
+        "date": "1983-05-31",
+        "vhs": ["CxyLWgl5aAI", "chE-vdoVeiM"]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1983
+  },
+  {
+    "id": "ad8002f4-f7ed-4d3f-af79-bda5834dd3c8",
+    "teams": [1, 17],
+    "games": [
+      { "host": 17, "visitor": 1, "date": "1984-04-17", "vhs": [] },
+      { "host": 17, "visitor": 1, "date": "1984-04-19", "vhs": [] },
+      { "host": 1, "visitor": 17, "date": "1984-04-21", "vhs": [] },
+      { "host": 1, "visitor": 17, "date": "1984-04-24", "vhs": [] },
+      { "host": 17, "visitor": 1, "date": "1984-04-26", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "fde31854-5323-424b-9f40-97ed9fbe4a6d",
+    "teams": [2, 32],
+    "games": [
+      { "host": 2, "visitor": 32, "date": "1984-04-17", "vhs": [] },
+      { "host": 2, "visitor": 32, "date": "1984-04-19", "vhs": [] },
+      { "host": 32, "visitor": 2, "date": "1984-04-21", "vhs": [] },
+      { "host": 32, "visitor": 2, "date": "1984-04-24", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "76bb6cdb-3fe7-401d-9772-290f820f6d01",
+    "teams": [14, 33],
+    "games": [
+      { "host": 14, "visitor": 33, "date": "1984-04-18", "vhs": [] },
+      { "host": 14, "visitor": 33, "date": "1984-04-20", "vhs": [] },
+      { "host": 33, "visitor": 14, "date": "1984-04-22", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "57045bfd-091f-44f5-af49-17bcd6d4506d",
+    "teams": [9, 20],
+    "games": [
+      { "host": 9, "visitor": 20, "date": "1984-04-17", "vhs": [] },
+      { "host": 9, "visitor": 20, "date": "1984-04-19", "vhs": [] },
+      { "host": 20, "visitor": 9, "date": "1984-04-22", "vhs": [] },
+      { "host": 20, "visitor": 9, "date": "1984-04-25", "vhs": [] },
+      { "host": 9, "visitor": 20, "date": "1984-04-27", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "4e7c41f8-e54c-42fd-bfe2-0a1e5bc4cf0b",
+    "teams": [24, 25],
+    "games": [
+      { "host": 25, "visitor": 24, "date": "1984-04-18", "vhs": [] },
+      { "host": 25, "visitor": 24, "date": "1984-04-20", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1984-04-22", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1984-04-24", "vhs": [] },
+      { "host": 25, "visitor": 24, "date": "1984-04-26", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "052e606e-ad53-4144-a277-9ec7c70d22a8",
+    "teams": [8, 29],
+    "games": [
+      { "host": 29, "visitor": 8, "date": "1984-04-17", "vhs": [] },
+      { "host": 29, "visitor": 8, "date": "1984-04-19", "vhs": [] },
+      { "host": 8, "visitor": 29, "date": "1984-04-22", "vhs": [] },
+      { "host": 8, "visitor": 29, "date": "1984-04-24", "vhs": [] },
+      { "host": 29, "visitor": 8, "date": "1984-04-26", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "07ac4ec2-0121-49dc-99b7-a0cc5f48e792",
+    "teams": [23, 34],
+    "games": [
+      { "host": 23, "visitor": 34, "date": "1984-04-18", "vhs": [] },
+      { "host": 23, "visitor": 34, "date": "1984-04-20", "vhs": [] },
+      { "host": 34, "visitor": 23, "date": "1984-04-22", "vhs": [] },
+      { "host": 34, "visitor": 23, "date": "1984-04-24", "vhs": [] },
+      { "host": 23, "visitor": 34, "date": "1984-04-26", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "a2544edf-80ff-4fa8-9078-26095b594557",
+    "teams": [7, 31],
+    "games": [
+      { "host": 7, "visitor": 31, "date": "1984-04-17", "vhs": [] },
+      { "host": 7, "visitor": 31, "date": "1984-04-19", "vhs": [] },
+      { "host": 31, "visitor": 7, "date": "1984-04-21", "vhs": [] },
+      { "host": 31, "visitor": 7, "date": "1984-04-24", "vhs": [] },
+      { "host": 7, "visitor": 31, "date": "1984-04-26", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1984
+  },
+  {
+    "id": "0e67a1f2-d643-4561-866e-bcb9e051b57e",
+    "teams": [2, 20],
+    "games": [
+      { "host": 2, "visitor": 20, "date": "1984-04-29", "vhs": [] },
+      { "host": 2, "visitor": 20, "date": "1984-05-02", "vhs": [] },
+      { "host": 20, "visitor": 2, "date": "1984-05-04", "vhs": [] },
+      { "host": 20, "visitor": 2, "date": "1984-05-06", "vhs": [] },
+      { "host": 2, "visitor": 20, "date": "1984-05-09", "vhs": [] },
+      {
+        "host": 20,
+        "visitor": 2,
+        "date": "1984-05-11",
+        "vhs": ["_OcLp1bigxI"]
+      },
+      { "host": 2, "visitor": 20, "date": "1984-05-13", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1984
+  },
+  {
+    "id": "a62f3900-205b-4a54-b5d2-3fc64fe8857a",
+    "teams": [7, 14],
+    "games": [
+      { "host": 14, "visitor": 7, "date": "1984-04-28", "vhs": [] },
+      { "host": 14, "visitor": 7, "date": "1984-05-01", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1984-05-04", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1984-05-06", "vhs": [] },
+      { "host": 14, "visitor": 7, "date": "1984-05-08", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1984
+  },
+  {
+    "id": "7c7cd0f4-6a53-4109-b808-10dec21fb594",
+    "teams": [17, 34],
+    "games": [
+      { "host": 17, "visitor": 34, "date": "1984-04-29", "vhs": [] },
+      { "host": 17, "visitor": 34, "date": "1984-05-01", "vhs": [] },
+      { "host": 34, "visitor": 17, "date": "1984-05-03", "vhs": [] },
+      { "host": 34, "visitor": 17, "date": "1984-05-05", "vhs": [] },
+      { "host": 17, "visitor": 34, "date": "1984-05-08", "vhs": [] },
+      {
+        "host": 34,
+        "visitor": 17,
+        "date": "1984-05-10",
+        "vhs": ["zf73pJer0q8"]
+      }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1984
+  },
+  {
+    "id": "28e52fce-27bd-42ad-8b4e-3e8998b31722",
+    "teams": [24, 29],
+    "games": [
+      { "host": 29, "visitor": 24, "date": "1984-04-29", "vhs": [] },
+      { "host": 29, "visitor": 24, "date": "1984-05-02", "vhs": [] },
+      { "host": 24, "visitor": 29, "date": "1984-05-04", "vhs": [] },
+      { "host": 24, "visitor": 29, "date": "1984-05-06", "vhs": [] },
+      { "host": 29, "visitor": 24, "date": "1984-05-08", "vhs": [] },
+      { "host": 24, "visitor": 29, "date": "1984-05-10", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1984
+  },
+  {
+    "id": "39b257fa-5db6-4b31-b897-fbf11bce4bc4",
+    "teams": [14, 24],
+    "games": [
+      { "host": 14, "visitor": 24, "date": "1984-05-12", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1984-05-15", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1984-05-18", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1984-05-20", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1984-05-23", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1984-05-25", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1984
+  },
+  {
+    "id": "0a0688eb-0633-4933-a6cb-965b22f3b298",
+    "teams": [2, 17],
+    "games": [
+      { "host": 2, "visitor": 17, "date": "1984-05-15", "vhs": [] },
+      { "host": 2, "visitor": 17, "date": "1984-05-17", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1984-05-19", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1984-05-21", "vhs": [] },
+      { "host": 2, "visitor": 17, "date": "1984-05-23", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1984
+  },
+  {
+    "id": "162cce9e-a114-4168-93d2-4bc94fe0826a",
+    "teams": [2, 14],
+    "games": [
+      {
+        "host": 2,
+        "visitor": 14,
+        "date": "1984-05-27",
+        "vhs": ["zNajFU7Sgd8", "9uQtj9qv84M", "PLFF4B25A00140409A"]
+      },
+      {
+        "host": 2,
+        "visitor": 14,
+        "date": "1984-05-31",
+        "vhs": ["Ctq2trBRvs4", "PL125D3F2F915D88ED"]
+      },
+      {
+        "host": 14,
+        "visitor": 2,
+        "date": "1984-06-03",
+        "vhs": ["ASXhghPYf-o", "PLBCF3903918B20899"]
+      },
+      {
+        "host": 14,
+        "visitor": 2,
+        "date": "1984-06-06",
+        "vhs": ["NtQ3nCSObUk", "PL12C0EBFDFF5CFAA6"]
+      },
+      {
+        "host": 2,
+        "visitor": 14,
+        "date": "1984-06-08",
+        "vhs": ["PLE664F761A708F75A"]
+      },
+      {
+        "host": 14,
+        "visitor": 2,
+        "date": "1984-06-10",
+        "vhs": ["O8pgbqlntGA", "PL04B208EF6D1C5E90"]
+      },
+      { "host": 2, "visitor": 14, "date": "1984-06-12", "vhs": ["8p8vcYlprXE"] }
+    ],
+    "stage": "Finals",
+    "season": 1984
+  },
+  {
+    "id": "21ea8088-7495-40d4-b35e-7b0a16e1bfda",
+    "teams": [7, 25],
+    "games": [
+      { "host": 7, "visitor": 25, "date": "1985-04-18", "vhs": [] },
+      {
+        "host": 7,
+        "visitor": 25,
+        "date": "1985-04-20",
+        "vhs": ["zSGQNPUyQCQ"]
+      },
+      { "host": 25, "visitor": 7, "date": "1985-04-23", "vhs": [] },
+      { "host": 25, "visitor": 7, "date": "1985-04-25", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "0e6b39cc-955f-4c8e-9da9-6c9be97d1149",
+    "teams": [5, 17],
+    "games": [
+      { "host": 17, "visitor": 5, "date": "1985-04-19", "vhs": [] },
+      { "host": 17, "visitor": 5, "date": "1985-04-21", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 17,
+        "date": "1985-04-24",
+        "vhs": ["PL4F8CD5D099210468"]
+      },
+      { "host": 5, "visitor": 17, "date": "1985-04-26", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "0a728292-735f-44a7-b295-bb5a5b0c03f3",
+    "teams": [14, 24],
+    "games": [
+      { "host": 14, "visitor": 24, "date": "1985-04-18", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1985-04-20", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1985-04-23", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "fd60120f-3b0b-4997-982b-89b5300775be",
+    "teams": [23, 32],
+    "games": [
+      { "host": 23, "visitor": 32, "date": "1985-04-17", "vhs": [] },
+      { "host": 23, "visitor": 32, "date": "1985-04-21", "vhs": [] },
+      { "host": 32, "visitor": 23, "date": "1985-04-24", "vhs": [] },
+      { "host": 32, "visitor": 23, "date": "1985-04-26", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "d7487c80-2761-4908-b00b-2346542f6226",
+    "teams": [11, 29],
+    "games": [
+      { "host": 11, "visitor": 29, "date": "1985-04-19", "vhs": [] },
+      { "host": 11, "visitor": 29, "date": "1985-04-21", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1985-04-24", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1985-04-26", "vhs": [] },
+      { "host": 11, "visitor": 29, "date": "1985-04-28", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "a41b8f45-9d7e-4c50-b89e-35501a2601f6",
+    "teams": [2, 9],
+    "games": [
+      { "host": 2, "visitor": 9, "date": "1985-04-28", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1985-04-30", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1985-05-02", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1985-05-05", "vhs": ["3Ookt_ptzAw"] },
+      { "host": 2, "visitor": 9, "date": "1985-05-08", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1985-05-10", "vhs": ["ibLBdem9xTE"] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1985
+  },
+  {
+    "id": "bdef0ac3-5f60-441f-8587-519b7fa55329",
+    "teams": [2, 6],
+    "games": [
+      { "host": 2, "visitor": 6, "date": "1985-04-18", "vhs": [] },
+      { "host": 2, "visitor": 6, "date": "1985-04-20", "vhs": [] },
+      { "host": 6, "visitor": 2, "date": "1985-04-23", "vhs": [] },
+      { "host": 6, "visitor": 2, "date": "1985-04-25", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "14f86416-baeb-41fd-8b3f-3b4992d6dc77",
+    "teams": [8, 27],
+    "games": [
+      { "host": 8, "visitor": 27, "date": "1985-04-18", "vhs": [] },
+      { "host": 8, "visitor": 27, "date": "1985-04-20", "vhs": [] },
+      { "host": 27, "visitor": 8, "date": "1985-04-23", "vhs": [] },
+      { "host": 27, "visitor": 8, "date": "1985-04-26", "vhs": [] },
+      { "host": 8, "visitor": 27, "date": "1985-04-28", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "b506ed32-cc38-45fa-aa9c-6bc34eb5ea11",
+    "teams": [14, 25],
+    "games": [
+      { "host": 14, "visitor": 25, "date": "1985-04-27", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1985-04-30", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1985-05-03", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1985-05-05", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1985-05-07", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1985
+  },
+  {
+    "id": "4f09b52b-1f9b-4d8b-841e-4bc0e25b4f72",
+    "teams": [8, 29],
+    "games": [
+      { "host": 8, "visitor": 29, "date": "1985-04-30", "vhs": [] },
+      { "host": 8, "visitor": 29, "date": "1985-05-02", "vhs": [] },
+      { "host": 29, "visitor": 8, "date": "1985-05-04", "vhs": [] },
+      { "host": 29, "visitor": 8, "date": "1985-05-05", "vhs": [] },
+      { "host": 8, "visitor": 29, "date": "1985-05-07", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1985
+  },
+  {
+    "id": "4e00e08e-2e94-4932-904f-f6ad6ed8aac4",
+    "teams": [17, 23],
+    "games": [
+      { "host": 17, "visitor": 23, "date": "1985-04-28", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1985-04-30", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1985-05-03", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1985-05-05", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1985
+  },
+  {
+    "id": "51723989-d23e-4866-bf9c-4879cacd7ef3",
+    "teams": [9, 34],
+    "games": [
+      { "host": 9, "visitor": 34, "date": "1985-04-18", "vhs": [] },
+      { "host": 9, "visitor": 34, "date": "1985-04-21", "vhs": [] },
+      { "host": 34, "visitor": 9, "date": "1985-04-24", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1985
+  },
+  {
+    "id": "4a20a363-b78d-48d8-bf67-96904563879a",
+    "teams": [8, 14],
+    "games": [
+      { "host": 14, "visitor": 8, "date": "1985-05-11", "vhs": [] },
+      { "host": 14, "visitor": 8, "date": "1985-05-14", "vhs": [] },
+      { "host": 8, "visitor": 14, "date": "1985-05-17", "vhs": [] },
+      { "host": 8, "visitor": 14, "date": "1985-05-19", "vhs": [] },
+      { "host": 14, "visitor": 8, "date": "1985-05-22", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1985
+  },
+  {
+    "id": "6cc2b5cb-2936-4ebc-ae51-5a668973bf4d",
+    "teams": [2, 23],
+    "games": [
+      { "host": 2, "visitor": 23, "date": "1985-05-12", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1985-05-14", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1985-05-18", "vhs": [] },
+      { "host": 23, "visitor": 2, "date": "1985-05-19", "vhs": [] },
+      { "host": 2, "visitor": 23, "date": "1985-05-22", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1985
+  },
+  {
+    "id": "a4c8481f-d436-4634-8714-a2916cfc4984",
+    "teams": [2, 14],
+    "games": [
+      {
+        "host": 2,
+        "visitor": 14,
+        "date": "1985-05-27",
+        "vhs": ["PL7940472E54FAEA29"]
+      },
+      { "host": 2, "visitor": 14, "date": "1985-05-30", "vhs": [] },
+      { "host": 14, "visitor": 2, "date": "1985-06-02", "vhs": [] },
+      {
+        "host": 14,
+        "visitor": 2,
+        "date": "1985-06-05",
+        "vhs": ["azvREYJ7wKY"]
+      },
+      { "host": 14, "visitor": 2, "date": "1985-06-07", "vhs": [] },
+      { "host": 2, "visitor": 14, "date": "1985-06-09", "vhs": ["BtmjlGDrzO4"] }
+    ],
+    "stage": "Finals",
+    "season": 1985
+  },
+  {
+    "id": "741e6275-3a49-44b1-8e9b-6f2cc7a236bd",
+    "teams": [14, 27],
+    "games": [
+      { "host": 14, "visitor": 27, "date": "1986-04-17", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1986-04-19", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1986-04-23", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "3026565b-b418-44e3-9a27-a22c57bebf00",
+    "teams": [2, 5],
+    "games": [
+      { "host": 2, "visitor": 5, "date": "1986-04-17", "vhs": [] },
+      {
+        "host": 2,
+        "visitor": 5,
+        "date": "1986-04-20",
+        "vhs": ["7-lfiZgtfzE", "Qljk4t_xXuU", "gFXNJAQA0Sg"]
+      },
+      {
+        "host": 5,
+        "visitor": 2,
+        "date": "1986-04-22",
+        "vhs": ["PL5BCEC3C3FE44317C"]
+      }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "e9ad7884-ec0f-4e93-a43b-6c3eccb33f4d",
+    "teams": [17, 34],
+    "games": [
+      { "host": 17, "visitor": 34, "date": "1986-04-18", "vhs": [] },
+      { "host": 17, "visitor": 34, "date": "1986-04-20", "vhs": [] },
+      { "host": 34, "visitor": 17, "date": "1986-04-22", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "7b0faabf-8060-4309-a6cf-25af96e91ef3",
+    "teams": [1, 9],
+    "games": [
+      { "host": 1, "visitor": 9, "date": "1986-04-17", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1986-04-19", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1986-04-22", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1986-04-25", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "0d56f9a1-a46a-404d-929f-bb0a4b89aab7",
+    "teams": [7, 29],
+    "games": [
+      { "host": 7, "visitor": 29, "date": "1986-04-18", "vhs": [] },
+      { "host": 7, "visitor": 29, "date": "1986-04-20", "vhs": [] },
+      { "host": 29, "visitor": 7, "date": "1986-04-23", "vhs": [] },
+      { "host": 29, "visitor": 7, "date": "1986-04-25", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "2e44966d-8f9e-49a0-b3c5-fa08b64f27ec",
+    "teams": [8, 25],
+    "games": [
+      { "host": 8, "visitor": 25, "date": "1986-04-18", "vhs": [] },
+      { "host": 8, "visitor": 25, "date": "1986-04-20", "vhs": [] },
+      { "host": 25, "visitor": 8, "date": "1986-04-22", "vhs": [] },
+      { "host": 25, "visitor": 8, "date": "1986-04-24", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "6f185cfa-fa41-4a17-9a6b-aea0878536e2",
+    "teams": [23, 32],
+    "games": [
+      { "host": 23, "visitor": 32, "date": "1986-04-18", "vhs": [] },
+      { "host": 23, "visitor": 32, "date": "1986-04-20", "vhs": [] },
+      { "host": 32, "visitor": 23, "date": "1986-04-22", "vhs": [] },
+      { "host": 32, "visitor": 23, "date": "1986-04-24", "vhs": [] },
+      { "host": 23, "visitor": 32, "date": "1986-04-27", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "d1f04825-8254-4383-9d9a-0479f5d9273f",
+    "teams": [7, 14],
+    "games": [
+      { "host": 14, "visitor": 7, "date": "1986-04-27", "vhs": [] },
+      { "host": 14, "visitor": 7, "date": "1986-04-30", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1986-05-02", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1986-05-04", "vhs": [] },
+      { "host": 14, "visitor": 7, "date": "1986-05-06", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1986-05-08", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1986
+  },
+  {
+    "id": "ce53d31e-2278-4e40-b50c-7db797a19af0",
+    "teams": [1, 2],
+    "games": [
+      { "host": 2, "visitor": 1, "date": "1986-04-27", "vhs": ["PvMN_GVoqnY"] },
+      { "host": 2, "visitor": 1, "date": "1986-04-29", "vhs": [] },
+      { "host": 1, "visitor": 2, "date": "1986-05-02", "vhs": [] },
+      { "host": 1, "visitor": 2, "date": "1986-05-04", "vhs": [] },
+      { "host": 2, "visitor": 1, "date": "1986-05-06", "vhs": ["M2RyKRDh25k"] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1986
+  },
+  {
+    "id": "c26cb6e5-21fd-4b65-9954-4097b25779b0",
+    "teams": [8, 11],
+    "games": [
+      { "host": 11, "visitor": 8, "date": "1986-04-26", "vhs": [] },
+      { "host": 11, "visitor": 8, "date": "1986-04-29", "vhs": [] },
+      { "host": 8, "visitor": 11, "date": "1986-05-02", "vhs": [] },
+      { "host": 8, "visitor": 11, "date": "1986-05-04", "vhs": [] },
+      { "host": 11, "visitor": 8, "date": "1986-05-06", "vhs": [] },
+      { "host": 8, "visitor": 11, "date": "1986-05-08", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1986
+  },
+  {
+    "id": "cc763b40-9b91-41eb-8cae-6c66ab63e2eb",
+    "teams": [17, 23],
+    "games": [
+      { "host": 17, "visitor": 23, "date": "1986-04-29", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1986-05-01", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1986-05-01", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1986-05-03", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1986-05-05", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1986-05-07", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1986-05-09", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1986-05-11", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1986
+  },
+  {
+    "id": "204f2786-54db-4b51-8a8b-48ee87276a94",
+    "teams": [11, 14],
+    "games": [
+      { "host": 14, "visitor": 11, "date": "1986-05-10", "vhs": [] },
+      { "host": 14, "visitor": 11, "date": "1986-05-13", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1986-05-16", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1986-05-18", "vhs": [] },
+      {
+        "host": 14,
+        "visitor": 11,
+        "date": "1986-05-21",
+        "vhs": ["7RCyIYlgOE8"]
+      }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1986
+  },
+  {
+    "id": "775f0491-383a-4953-9979-cf6130e25a45",
+    "teams": [2, 17],
+    "games": [
+      { "host": 2, "visitor": 17, "date": "1986-05-13", "vhs": [] },
+      { "host": 2, "visitor": 17, "date": "1986-05-15", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1986-05-17", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1986-05-18", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1986
+  },
+  {
+    "id": "e245a5a8-ee59-460e-a179-b554822fdc4c",
+    "teams": [11, 26],
+    "games": [
+      { "host": 11, "visitor": 26, "date": "1986-04-17", "vhs": [] },
+      { "host": 11, "visitor": 26, "date": "1986-04-19", "vhs": [] },
+      {
+        "host": 26,
+        "visitor": 11,
+        "date": "1986-04-22",
+        "vhs": ["VnGFPlo5Iuk"]
+      }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1986
+  },
+  {
+    "id": "d4955d9a-fc40-4462-99f7-50d169010fc4",
+    "teams": [2, 11],
+    "games": [
+      {
+        "host": 2,
+        "visitor": 11,
+        "date": "1986-05-26",
+        "vhs": ["Ot9m4Wrrmc0"]
+      },
+      {
+        "host": 2,
+        "visitor": 11,
+        "date": "1986-05-29",
+        "vhs": ["84KU9KLMwdQ"]
+      },
+      { "host": 11, "visitor": 2, "date": "1986-06-01", "vhs": [] },
+      { "host": 11, "visitor": 2, "date": "1986-06-03", "vhs": [] },
+      { "host": 11, "visitor": 2, "date": "1986-06-05", "vhs": [] },
+      { "host": 2, "visitor": 11, "date": "1986-06-08", "vhs": [] }
+    ],
+    "stage": "Finals",
+    "season": 1986
+  },
+  {
+    "id": "58082b42-3785-4616-948b-4c91fa358a09",
+    "teams": [2, 5],
+    "games": [
+      { "host": 2, "visitor": 5, "date": "1987-04-23", "vhs": [] },
+      { "host": 2, "visitor": 5, "date": "1987-04-26", "vhs": [] },
+      { "host": 5, "visitor": 2, "date": "1987-04-28", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "839ed997-67d3-4080-9693-b1cb54734b50",
+    "teams": [1, 12],
+    "games": [
+      { "host": 1, "visitor": 12, "date": "1987-04-24", "vhs": [] },
+      { "host": 1, "visitor": 12, "date": "1987-04-26", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1987-04-29", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1987-05-01", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "2d5aedff-6d0c-4aac-870a-c5f7cd1df30c",
+    "teams": [9, 32],
+    "games": [
+      { "host": 9, "visitor": 32, "date": "1987-04-24", "vhs": [] },
+      { "host": 9, "visitor": 32, "date": "1987-04-26", "vhs": [] },
+      { "host": 32, "visitor": 9, "date": "1987-04-29", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "45baa2f2-c8df-42e6-8c51-c6fc09c6a84b",
+    "teams": [10, 29],
+    "games": [
+      { "host": 29, "visitor": 10, "date": "1987-04-23", "vhs": [] },
+      { "host": 29, "visitor": 10, "date": "1987-04-25", "vhs": [] },
+      { "host": 10, "visitor": 29, "date": "1987-04-29", "vhs": [] },
+      { "host": 10, "visitor": 29, "date": "1987-05-01", "vhs": [] },
+      { "host": 29, "visitor": 10, "date": "1987-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "f311fb34-9520-4939-a7c5-5fb2d541cad7",
+    "teams": [7, 31],
+    "games": [
+      { "host": 7, "visitor": 31, "date": "1987-04-23", "vhs": [] },
+      { "host": 7, "visitor": 31, "date": "1987-04-25", "vhs": [] },
+      { "host": 31, "visitor": 7, "date": "1987-04-28", "vhs": [] },
+      { "host": 31, "visitor": 7, "date": "1987-04-30", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "29ee26cc-dad8-4f50-a694-ec5c9f8e9fc6",
+    "teams": [1, 9],
+    "games": [
+      { "host": 1, "visitor": 9, "date": "1987-05-03", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1987-05-05", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1987-05-08", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1987-05-10", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1987-05-13", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1987
+  },
+  {
+    "id": "0b623d4e-f4e1-4153-af8d-b923aa55bcc2",
+    "teams": [17, 23],
+    "games": [
+      { "host": 17, "visitor": 23, "date": "1987-04-24", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1987-04-26", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1987-04-29", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1987-05-01", "vhs": [] },
+      {
+        "host": 17,
+        "visitor": 23,
+        "date": "1987-05-03",
+        "vhs": ["Xr_2-VGHTg0"]
+      }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "1a11d9ae-c8e4-4977-ba58-cb572d034e61",
+    "teams": [11, 25],
+    "games": [
+      { "host": 25, "visitor": 11, "date": "1987-04-24", "vhs": [] },
+      { "host": 25, "visitor": 11, "date": "1987-04-26", "vhs": [] },
+      { "host": 11, "visitor": 25, "date": "1987-04-28", "vhs": [] },
+      { "host": 11, "visitor": 25, "date": "1987-04-30", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "68e3412e-14b5-4c4e-a698-a41284f7bcfc",
+    "teams": [11, 31],
+    "games": [
+      { "host": 11, "visitor": 31, "date": "1987-05-02", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1987-05-05", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1987-05-07", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1987-05-09", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1987-05-12", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1987-05-14", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1987
+  },
+  {
+    "id": "f1324a3f-cf5d-463e-bc6a-caf26b373fb7",
+    "teams": [10, 14],
+    "games": [
+      { "host": 14, "visitor": 10, "date": "1987-05-05", "vhs": [] },
+      { "host": 14, "visitor": 10, "date": "1987-05-07", "vhs": [] },
+      { "host": 10, "visitor": 14, "date": "1987-05-09", "vhs": [] },
+      {
+        "host": 10,
+        "visitor": 14,
+        "date": "1987-05-10",
+        "vhs": ["RdlrSveOZh8"]
+      },
+      { "host": 14, "visitor": 10, "date": "1987-05-12", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1987
+  },
+  {
+    "id": "c9e26242-b6c1-4ca7-94e6-b43874fe5990",
+    "teams": [2, 17],
+    "games": [
+      { "host": 2, "visitor": 17, "date": "1987-05-05", "vhs": [] },
+      { "host": 2, "visitor": 17, "date": "1987-05-06", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1987-05-08", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1987-05-10", "vhs": [] },
+      { "host": 2, "visitor": 17, "date": "1987-05-13", "vhs": [] },
+      { "host": 17, "visitor": 2, "date": "1987-05-15", "vhs": [] },
+      { "host": 2, "visitor": 17, "date": "1987-05-17", "vhs": ["Up6xO1YVC3I"] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1987
+  },
+  {
+    "id": "6990763e-e5b8-42d5-b85d-d142e697c9c2",
+    "teams": [2, 9],
+    "games": [
+      { "host": 2, "visitor": 9, "date": "1987-05-19", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1987-05-21", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1987-05-23", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1987-05-24", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1987-05-26", "vhs": ["U1_WNtucO84"] },
+      { "host": 9, "visitor": 2, "date": "1987-05-28", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1987-05-30", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1987
+  },
+  {
+    "id": "9f50c98f-84b1-4f26-ada4-e9760ff8ca5f",
+    "teams": [14, 31],
+    "games": [
+      { "host": 14, "visitor": 31, "date": "1987-05-16", "vhs": [] },
+      { "host": 14, "visitor": 31, "date": "1987-05-19", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1987-05-23", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1987-05-25", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1987
+  },
+  {
+    "id": "8db2f92b-153d-4a95-bae3-5c3891df1d3b",
+    "teams": [8, 14],
+    "games": [
+      {
+        "host": 14,
+        "visitor": 8,
+        "date": "1987-04-23",
+        "vhs": ["s0Wl6A5BqC4"]
+      },
+      { "host": 14, "visitor": 8, "date": "1987-04-25", "vhs": [] },
+      { "host": 8, "visitor": 14, "date": "1987-04-29", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1987
+  },
+  {
+    "id": "50f65743-22c9-408c-ad36-17369e53e406",
+    "teams": [2, 14],
+    "games": [
+      {
+        "host": 14,
+        "visitor": 2,
+        "date": "1987-06-02",
+        "vhs": ["pYE-yNtlDJc", "guLXndMsaUc", "PLFD0D8EE168EA02A1"]
+      },
+      {
+        "host": 14,
+        "visitor": 2,
+        "date": "1987-06-04",
+        "vhs": ["PL6159C6477CD10B48"]
+      },
+      {
+        "host": 2,
+        "visitor": 14,
+        "date": "1987-06-07",
+        "vhs": ["z2X3L_IUC5k", "PL3873A39ACD55268E"]
+      },
+      { "host": 2, "visitor": 14, "date": "1987-06-09", "vhs": [] },
+      {
+        "host": 2,
+        "visitor": 14,
+        "date": "1987-06-11",
+        "vhs": ["PL020138640D85BF56"]
+      },
+      { "host": 14, "visitor": 2, "date": "1987-06-14", "vhs": ["V-nkgQpw8KA"] }
+    ],
+    "stage": "Finals",
+    "season": 1987
+  },
+  {
+    "id": "e4ac91dd-2759-4353-9a2a-553a2071946a",
+    "teams": [2, 20],
+    "games": [
+      { "host": 2, "visitor": 20, "date": "1988-04-29", "vhs": [] },
+      { "host": 2, "visitor": 20, "date": "1988-05-01", "vhs": [] },
+      { "host": 20, "visitor": 2, "date": "1988-05-04", "vhs": [] },
+      { "host": 20, "visitor": 2, "date": "1988-05-06", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "57141ad8-c4ef-4cec-a595-ae64d54a0ea7",
+    "teams": [8, 31],
+    "games": [
+      { "host": 8, "visitor": 31, "date": "1988-04-29", "vhs": [] },
+      { "host": 8, "visitor": 31, "date": "1988-05-01", "vhs": [] },
+      { "host": 31, "visitor": 8, "date": "1988-05-03", "vhs": [] },
+      { "host": 31, "visitor": 8, "date": "1988-05-05", "vhs": [] },
+      { "host": 8, "visitor": 31, "date": "1988-05-07", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "bfef725c-964d-4c7b-9fb9-1894ea6ab355",
+    "teams": [9, 32],
+    "games": [
+      { "host": 9, "visitor": 32, "date": "1988-04-28", "vhs": [] },
+      { "host": 9, "visitor": 32, "date": "1988-04-30", "vhs": [] },
+      { "host": 32, "visitor": 9, "date": "1988-05-02", "vhs": [] },
+      { "host": 32, "visitor": 9, "date": "1988-05-04", "vhs": [] },
+      { "host": 9, "visitor": 32, "date": "1988-05-08", "vhs": ["x-gM9an5xxk"] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "5224d572-5176-408b-a524-07ad4fe0608b",
+    "teams": [5, 6],
+    "games": [
+      { "host": 5, "visitor": 6, "date": "1988-04-28", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 6,
+        "date": "1988-05-01",
+        "vhs": ["PLD45CC08A38009FD8"]
+      },
+      { "host": 6, "visitor": 5, "date": "1988-05-03", "vhs": [] },
+      {
+        "host": 6,
+        "visitor": 5,
+        "date": "1988-05-05",
+        "vhs": ["PL2940E822A44246F6"]
+      },
+      { "host": 5, "visitor": 6, "date": "1988-05-08", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "8eedf513-eee8-4551-a8e3-a1e6515e1391",
+    "teams": [25, 29],
+    "games": [
+      { "host": 25, "visitor": 29, "date": "1988-04-28", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1988-04-30", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1988-05-04", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1988-05-06", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "7ae43461-986e-4453-8a77-6ff3874cd220",
+    "teams": [1, 17],
+    "games": [
+      { "host": 1, "visitor": 17, "date": "1988-04-29", "vhs": [] },
+      { "host": 1, "visitor": 17, "date": "1988-05-01", "vhs": [] },
+      { "host": 17, "visitor": 1, "date": "1988-05-04", "vhs": [] },
+      { "host": 17, "visitor": 1, "date": "1988-05-06", "vhs": [] },
+      { "host": 1, "visitor": 17, "date": "1988-05-08", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "15e23747-2d8b-4a29-ac24-cb08ca343835",
+    "teams": [5, 9],
+    "games": [
+      { "host": 9, "visitor": 5, "date": "1988-05-10", "vhs": [] },
+      { "host": 9, "visitor": 5, "date": "1988-05-12", "vhs": [] },
+      { "host": 5, "visitor": 9, "date": "1988-05-14", "vhs": [] },
+      { "host": 5, "visitor": 9, "date": "1988-05-15", "vhs": [] },
+      { "host": 9, "visitor": 5, "date": "1988-05-18", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1988
+  },
+  {
+    "id": "3480f7e8-fb03-41c3-ba1e-e6623bd0224f",
+    "teams": [14, 29],
+    "games": [
+      { "host": 14, "visitor": 29, "date": "1988-05-08", "vhs": [] },
+      { "host": 14, "visitor": 29, "date": "1988-05-10", "vhs": [] },
+      { "host": 29, "visitor": 14, "date": "1988-05-13", "vhs": [] },
+      { "host": 29, "visitor": 14, "date": "1988-05-15", "vhs": [] },
+      { "host": 14, "visitor": 29, "date": "1988-05-17", "vhs": [] },
+      { "host": 29, "visitor": 14, "date": "1988-05-19", "vhs": [] },
+      { "host": 14, "visitor": 29, "date": "1988-05-21", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1988
+  },
+  {
+    "id": "41dc3ed8-5cac-4b68-aa0a-95dc1c068085",
+    "teams": [7, 8],
+    "games": [
+      { "host": 8, "visitor": 7, "date": "1988-05-10", "vhs": [] },
+      { "host": 8, "visitor": 7, "date": "1988-05-12", "vhs": [] },
+      { "host": 7, "visitor": 8, "date": "1988-05-14", "vhs": [] },
+      { "host": 7, "visitor": 8, "date": "1988-05-15", "vhs": [] },
+      { "host": 8, "visitor": 7, "date": "1988-05-17", "vhs": [] },
+      { "host": 7, "visitor": 8, "date": "1988-05-19", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1988
+  },
+  {
+    "id": "c876b87c-949b-4337-8323-5f82902ff8ba",
+    "teams": [7, 14],
+    "games": [
+      { "host": 14, "visitor": 7, "date": "1988-05-23", "vhs": [] },
+      { "host": 14, "visitor": 7, "date": "1988-05-25", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1988-05-27", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1988-05-29", "vhs": [] },
+      { "host": 14, "visitor": 7, "date": "1988-05-31", "vhs": [] },
+      { "host": 7, "visitor": 14, "date": "1988-06-02", "vhs": [] },
+      { "host": 14, "visitor": 7, "date": "1988-06-04", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1988
+  },
+  {
+    "id": "9eb3f0e1-4be4-482c-9068-df3b41a48bea",
+    "teams": [2, 9],
+    "games": [
+      { "host": 2, "visitor": 9, "date": "1988-05-25", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1988-05-26", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1988-05-28", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1988-05-30", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1988-06-01", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1988-06-03", "vhs": ["KP_Q2Ed6WNQ"] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1988
+  },
+  {
+    "id": "82c6ca0d-aa88-476a-a10f-14fbe1f5595c",
+    "teams": [9, 14],
+    "games": [
+      {
+        "host": 14,
+        "visitor": 9,
+        "date": "1988-06-07",
+        "vhs": ["PL814A755D59697654"]
+      },
+      {
+        "host": 14,
+        "visitor": 9,
+        "date": "1988-06-09",
+        "vhs": ["PLBC09160F0BBDC3CA"]
+      },
+      {
+        "host": 9,
+        "visitor": 14,
+        "date": "1988-06-12",
+        "vhs": ["PL533B652697458175"]
+      },
+      {
+        "host": 9,
+        "visitor": 14,
+        "date": "1988-06-14",
+        "vhs": ["PLA07DC5368C4C098C"]
+      },
+      {
+        "host": 9,
+        "visitor": 14,
+        "date": "1988-06-16",
+        "vhs": ["PL722D492898F6650B"]
+      },
+      {
+        "host": 14,
+        "visitor": 9,
+        "date": "1988-06-19",
+        "vhs": ["GvWo7vraoow"]
+      },
+      {
+        "host": 14,
+        "visitor": 9,
+        "date": "1988-06-21",
+        "vhs": ["oIW8NhGt6PM", "PL9038AD850298183D"]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1988
+  },
+  {
+    "id": "6697e013-3c08-4980-b377-848471bfa2b1",
+    "teams": [7, 11],
+    "games": [
+      { "host": 7, "visitor": 11, "date": "1988-04-28", "vhs": [] },
+      { "host": 7, "visitor": 11, "date": "1988-04-30", "vhs": [] },
+      { "host": 11, "visitor": 7, "date": "1988-05-03", "vhs": [] },
+      { "host": 11, "visitor": 7, "date": "1988-05-05", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "37867a48-e7a1-439a-ae7f-8296800e7e26",
+    "teams": [14, 27],
+    "games": [
+      { "host": 14, "visitor": 27, "date": "1988-04-29", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1988-05-01", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1988-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1988
+  },
+  {
+    "id": "a2850654-75c5-4790-a08d-c3fb974c1ab0",
+    "teams": [1, 2],
+    "games": [
+      { "host": 2, "visitor": 1, "date": "1988-05-11", "vhs": [] },
+      { "host": 2, "visitor": 1, "date": "1988-05-13", "vhs": [] },
+      { "host": 1, "visitor": 2, "date": "1988-05-15", "vhs": [] },
+      { "host": 1, "visitor": 2, "date": "1988-05-16", "vhs": ["WPFxzVRFmrw"] },
+      { "host": 2, "visitor": 1, "date": "1988-05-18", "vhs": [] },
+      { "host": 1, "visitor": 2, "date": "1988-05-20", "vhs": [] },
+      { "host": 2, "visitor": 1, "date": "1988-05-22", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1988
+  },
+  {
+    "id": "f91f0978-08bc-4734-82a7-8714af37ecd1",
+    "teams": [20, 23],
+    "games": [
+      { "host": 20, "visitor": 23, "date": "1989-04-27", "vhs": [] },
+      { "host": 20, "visitor": 23, "date": "1989-04-29", "vhs": [] },
+      { "host": 23, "visitor": 20, "date": "1989-05-02", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "cb78560d-a474-46aa-83a3-79f6c53a85d6",
+    "teams": [14, 25],
+    "games": [
+      { "host": 14, "visitor": 25, "date": "1989-04-27", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1989-04-30", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1989-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "804aed6e-f75f-4bdd-92bb-ebdea071a076",
+    "teams": [5, 6],
+    "games": [
+      { "host": 6, "visitor": 5, "date": "1989-04-28", "vhs": [] },
+      { "host": 6, "visitor": 5, "date": "1989-04-30", "vhs": [] },
+      { "host": 5, "visitor": 6, "date": "1989-05-03", "vhs": [] },
+      { "host": 5, "visitor": 6, "date": "1989-05-05", "vhs": [] },
+      {
+        "host": 6,
+        "visitor": 5,
+        "date": "1989-05-07",
+        "vhs": ["8TvlO2XfO0M", "KglK8-R15YU"]
+      }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "77462bb5-5a6f-491b-9b14-cea2817e4fe8",
+    "teams": [1, 17],
+    "games": [
+      { "host": 1, "visitor": 17, "date": "1989-04-27", "vhs": [] },
+      { "host": 1, "visitor": 17, "date": "1989-04-29", "vhs": [] },
+      { "host": 17, "visitor": 1, "date": "1989-05-02", "vhs": [] },
+      { "host": 17, "visitor": 1, "date": "1989-05-05", "vhs": [] },
+      { "host": 1, "visitor": 17, "date": "1989-05-07", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "03a35b45-4eb1-4c3d-846f-0b2eccccf95e",
+    "teams": [8, 24],
+    "games": [
+      { "host": 24, "visitor": 8, "date": "1989-04-28", "vhs": [] },
+      { "host": 24, "visitor": 8, "date": "1989-04-30", "vhs": [] },
+      { "host": 8, "visitor": 24, "date": "1989-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "e3f49c65-5083-4d88-b74b-7d5876a03db5",
+    "teams": [11, 31],
+    "games": [
+      { "host": 31, "visitor": 11, "date": "1989-04-28", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1989-04-30", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1989-05-03", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1989-05-05", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "dddab09c-37ff-486d-854e-3c958680f089",
+    "teams": [10, 24],
+    "games": [
+      { "host": 24, "visitor": 10, "date": "1989-05-06", "vhs": [] },
+      { "host": 24, "visitor": 10, "date": "1989-05-09", "vhs": [] },
+      { "host": 10, "visitor": 24, "date": "1989-05-11", "vhs": [] },
+      { "host": 10, "visitor": 24, "date": "1989-05-13", "vhs": [] },
+      { "host": 24, "visitor": 10, "date": "1989-05-16", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1989
+  },
+  {
+    "id": "e496f2f2-027c-4093-9408-a0ecdd250bbb",
+    "teams": [14, 31],
+    "games": [
+      { "host": 14, "visitor": 31, "date": "1989-05-07", "vhs": [] },
+      { "host": 14, "visitor": 31, "date": "1989-05-10", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1989-05-12", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1989-05-14", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1989
+  },
+  {
+    "id": "155ecac3-98a7-4ef0-bded-4cb63eed865a",
+    "teams": [10, 29],
+    "games": [
+      { "host": 29, "visitor": 10, "date": "1989-04-27", "vhs": [] },
+      { "host": 29, "visitor": 10, "date": "1989-04-29", "vhs": [] },
+      { "host": 10, "visitor": 29, "date": "1989-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "8ea5200e-e35f-46c5-9b3f-e5f1355aaba3",
+    "teams": [2, 9],
+    "games": [
+      { "host": 9, "visitor": 2, "date": "1989-04-28", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1989-04-30", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1989-05-02", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1989
+  },
+  {
+    "id": "20995475-f8dd-45ae-af78-3a3100cdf44a",
+    "teams": [5, 20],
+    "games": [
+      { "host": 20, "visitor": 5, "date": "1989-05-09", "vhs": [] },
+      { "host": 20, "visitor": 5, "date": "1989-05-11", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1989-05-13", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1989-05-14", "vhs": [] },
+      { "host": 20, "visitor": 5, "date": "1989-05-16", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1989-05-19", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1989
+  },
+  {
+    "id": "21470601-4202-463e-b3c9-8ebc1b126617",
+    "teams": [9, 17],
+    "games": [
+      { "host": 9, "visitor": 17, "date": "1989-05-10", "vhs": [] },
+      { "host": 9, "visitor": 17, "date": "1989-05-12", "vhs": [] },
+      { "host": 17, "visitor": 9, "date": "1989-05-14", "vhs": [] },
+      { "host": 17, "visitor": 9, "date": "1989-05-15", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1989
+  },
+  {
+    "id": "24b7a87b-25fe-4abb-bb22-1885450f0a25",
+    "teams": [14, 24],
+    "games": [
+      { "host": 14, "visitor": 24, "date": "1989-05-20", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1989-05-23", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1989-05-26", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1989-05-28", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1989
+  },
+  {
+    "id": "af7627d3-131e-4d2f-8886-83d88d530dc4",
+    "teams": [5, 9],
+    "games": [
+      {
+        "host": 9,
+        "visitor": 5,
+        "date": "1989-05-21",
+        "vhs": ["PL1875F83B952C5121"]
+      },
+      {
+        "host": 9,
+        "visitor": 5,
+        "date": "1989-05-23",
+        "vhs": ["PL2CF21DBFDEE91063"]
+      },
+      { "host": 5, "visitor": 9, "date": "1989-05-27", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 9,
+        "date": "1989-05-29",
+        "vhs": ["PL0B4F320ED80339F5"]
+      },
+      {
+        "host": 9,
+        "visitor": 5,
+        "date": "1989-05-31",
+        "vhs": ["jyLqBjHqs0Q", "PLFFDAD7169C4AD1EA"]
+      },
+      {
+        "host": 5,
+        "visitor": 9,
+        "date": "1989-06-02",
+        "vhs": ["PL432701CB46840018"]
+      }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1989
+  },
+  {
+    "id": "d6657ac1-3116-4297-88f7-048801b278a6",
+    "teams": [9, 14],
+    "games": [
+      {
+        "host": 9,
+        "visitor": 14,
+        "date": "1989-06-06",
+        "vhs": ["PL8ACD36EA8D7F7A58"]
+      },
+      {
+        "host": 9,
+        "visitor": 14,
+        "date": "1989-06-08",
+        "vhs": ["PL4973C324594FAAB0"]
+      },
+      {
+        "host": 14,
+        "visitor": 9,
+        "date": "1989-06-11",
+        "vhs": ["PLFE1CBEB27763B868"]
+      },
+      { "host": 14, "visitor": 9, "date": "1989-06-13", "vhs": ["7ScbsJqmHDg"] }
+    ],
+    "stage": "Finals",
+    "season": 1989
+  },
+  {
+    "id": "939f1469-22d4-4a95-8088-4e5be0848718",
+    "teams": [9, 12],
+    "games": [
+      { "host": 9, "visitor": 12, "date": "1990-04-26", "vhs": [] },
+      { "host": 9, "visitor": 12, "date": "1990-04-28", "vhs": [] },
+      { "host": 12, "visitor": 9, "date": "1990-05-01", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "022c63ad-3f6e-4d31-ba23-cbc830b86f28",
+    "teams": [7, 25],
+    "games": [
+      { "host": 25, "visitor": 7, "date": "1990-04-26", "vhs": [] },
+      { "host": 25, "visitor": 7, "date": "1990-04-28", "vhs": [] },
+      { "host": 7, "visitor": 25, "date": "1990-05-01", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "a0e1fc8a-d212-4df1-8c2e-10ce2d13084e",
+    "teams": [24, 29],
+    "games": [
+      { "host": 29, "visitor": 24, "date": "1990-04-27", "vhs": [] },
+      { "host": 29, "visitor": 24, "date": "1990-04-29", "vhs": [] },
+      { "host": 24, "visitor": 29, "date": "1990-05-02", "vhs": [] },
+      { "host": 24, "visitor": 29, "date": "1990-05-04", "vhs": [] },
+      { "host": 29, "visitor": 24, "date": "1990-05-06", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "99def339-4ac1-40d3-8370-464f40ffba07",
+    "teams": [5, 17],
+    "games": [
+      { "host": 5, "visitor": 17, "date": "1990-04-27", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 17,
+        "date": "1990-04-29",
+        "vhs": ["PL6270B8314DF85ACC"]
+      },
+      {
+        "host": 17,
+        "visitor": 5,
+        "date": "1990-05-01",
+        "vhs": ["PL7AD61653C113BA1E"]
+      },
+      {
+        "host": 17,
+        "visitor": 5,
+        "date": "1990-05-03",
+        "vhs": ["PL06D3EFFE8B377BA3"]
+      }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "739ff8b5-3b51-4207-8686-2974e4d09952",
+    "teams": [8, 27],
+    "games": [
+      { "host": 27, "visitor": 8, "date": "1990-04-26", "vhs": [] },
+      { "host": 27, "visitor": 8, "date": "1990-04-28", "vhs": [] },
+      { "host": 8, "visitor": 27, "date": "1990-05-01", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "d22c56c7-647c-40fa-8781-2f90c1d6d12d",
+    "teams": [2, 20],
+    "games": [
+      { "host": 2, "visitor": 20, "date": "1990-04-26", "vhs": [] },
+      { "host": 2, "visitor": 20, "date": "1990-04-28", "vhs": [] },
+      { "host": 20, "visitor": 2, "date": "1990-05-02", "vhs": [] },
+      { "host": 20, "visitor": 2, "date": "1990-05-04", "vhs": [] },
+      { "host": 2, "visitor": 20, "date": "1990-05-06", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "a4f9a1a7-5e23-4b57-8234-bb15ad2b9c80",
+    "teams": [6, 23],
+    "games": [
+      { "host": 23, "visitor": 6, "date": "1990-04-26", "vhs": [] },
+      { "host": 23, "visitor": 6, "date": "1990-04-29", "vhs": [] },
+      { "host": 6, "visitor": 23, "date": "1990-05-01", "vhs": [] },
+      { "host": 6, "visitor": 23, "date": "1990-05-03", "vhs": [] },
+      { "host": 23, "visitor": 6, "date": "1990-05-05", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "d344145d-f430-433d-88b0-ef3101411f6d",
+    "teams": [25, 27],
+    "games": [
+      { "host": 25, "visitor": 27, "date": "1990-05-05", "vhs": [] },
+      { "host": 25, "visitor": 27, "date": "1990-05-08", "vhs": [] },
+      { "host": 27, "visitor": 25, "date": "1990-05-10", "vhs": [] },
+      { "host": 27, "visitor": 25, "date": "1990-05-12", "vhs": [] },
+      { "host": 25, "visitor": 27, "date": "1990-05-15", "vhs": [] },
+      { "host": 27, "visitor": 25, "date": "1990-05-17", "vhs": [] },
+      {
+        "host": 25,
+        "visitor": 27,
+        "date": "1990-05-19",
+        "vhs": ["g7Q974FzAC8"]
+      }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1990
+  },
+  {
+    "id": "0e7763a9-549e-4f0d-b4f3-04e19dc1ee5f",
+    "teams": [5, 23],
+    "games": [
+      { "host": 5, "visitor": 23, "date": "1990-05-07", "vhs": [] },
+      { "host": 5, "visitor": 23, "date": "1990-05-09", "vhs": [] },
+      {
+        "host": 23,
+        "visitor": 5,
+        "date": "1990-05-11",
+        "vhs": ["PLA02F52B1209E688C"]
+      },
+      { "host": 23, "visitor": 5, "date": "1990-05-13", "vhs": [] },
+      { "host": 5, "visitor": 23, "date": "1990-05-16", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1990
+  },
+  {
+    "id": "e6709700-4160-45d1-acb2-62f03cc917cc",
+    "teams": [9, 20],
+    "games": [
+      { "host": 9, "visitor": 20, "date": "1990-05-08", "vhs": [] },
+      {
+        "host": 9,
+        "visitor": 20,
+        "date": "1990-05-10",
+        "vhs": ["TCetMvPaOL8"]
+      },
+      { "host": 20, "visitor": 9, "date": "1990-05-12", "vhs": [] },
+      { "host": 20, "visitor": 9, "date": "1990-05-13", "vhs": [] },
+      { "host": 9, "visitor": 20, "date": "1990-05-15", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1990
+  },
+  {
+    "id": "ad3ddbef-fe75-40e6-abd5-0ddebe67fbcb",
+    "teams": [14, 24],
+    "games": [
+      { "host": 14, "visitor": 24, "date": "1990-05-08", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1990-05-10", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1990-05-12", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1990-05-13", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1990-05-15", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1990
+  },
+  {
+    "id": "b2196204-f1fe-4f6c-b12f-a8a0860c3566",
+    "teams": [11, 14],
+    "games": [
+      { "host": 14, "visitor": 11, "date": "1990-04-27", "vhs": [] },
+      { "host": 14, "visitor": 11, "date": "1990-04-29", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1990-05-01", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1990-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1990
+  },
+  {
+    "id": "4f107878-b21c-46f5-ae53-efbbabf8c2bf",
+    "teams": [5, 9],
+    "games": [
+      { "host": 9, "visitor": 5, "date": "1990-05-20", "vhs": [] },
+      { "host": 9, "visitor": 5, "date": "1990-05-22", "vhs": [] },
+      { "host": 5, "visitor": 9, "date": "1990-05-26", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 9,
+        "date": "1990-05-28",
+        "vhs": ["PLA2D7B70A2B9B7FCF"]
+      },
+      {
+        "host": 9,
+        "visitor": 5,
+        "date": "1990-05-30",
+        "vhs": ["PL947AACD56666B9AA"]
+      },
+      { "host": 5, "visitor": 9, "date": "1990-06-01", "vhs": [] },
+      {
+        "host": 9,
+        "visitor": 5,
+        "date": "1990-06-03",
+        "vhs": ["PLD86ED313A98114A1"]
+      }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1990
+  },
+  {
+    "id": "11ca0ef4-cd53-4cd1-9c00-5b64176d0442",
+    "teams": [24, 25],
+    "games": [
+      { "host": 25, "visitor": 24, "date": "1990-05-21", "vhs": [] },
+      { "host": 25, "visitor": 24, "date": "1990-05-23", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1990-05-25", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1990-05-27", "vhs": [] },
+      { "host": 25, "visitor": 24, "date": "1990-05-29", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1990-05-31", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1990
+  },
+  {
+    "id": "c5ee7604-a402-452e-9938-c14c79c92c40",
+    "teams": [9, 25],
+    "games": [
+      {
+        "host": 9,
+        "visitor": 25,
+        "date": "1990-06-05",
+        "vhs": ["uMyecMjCz1U"]
+      },
+      { "host": 9, "visitor": 25, "date": "1990-06-07", "vhs": [] },
+      { "host": 25, "visitor": 9, "date": "1990-06-10", "vhs": [] },
+      { "host": 25, "visitor": 9, "date": "1990-06-12", "vhs": [] },
+      {
+        "host": 25,
+        "visitor": 9,
+        "date": "1990-06-14",
+        "vhs": ["ZKf1zjdK4NQ", "P0bdpn6_2E8"]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1990
+  },
+  {
+    "id": "878baaca-804d-47fa-a84b-a18144dea768",
+    "teams": [24, 29],
+    "games": [
+      { "host": 24, "visitor": 29, "date": "1991-04-25", "vhs": [] },
+      { "host": 24, "visitor": 29, "date": "1991-04-27", "vhs": [] },
+      { "host": 29, "visitor": 24, "date": "1991-04-30", "vhs": [] },
+      { "host": 29, "visitor": 24, "date": "1991-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "e7c0fd9b-7fea-4b22-b50b-1c2578b155f4",
+    "teams": [10, 27],
+    "games": [
+      { "host": 27, "visitor": 10, "date": "1991-04-25", "vhs": [] },
+      { "host": 27, "visitor": 10, "date": "1991-04-27", "vhs": [] },
+      { "host": 10, "visitor": 27, "date": "1991-05-01", "vhs": [] },
+      { "host": 10, "visitor": 27, "date": "1991-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "c84cb38a-13b9-4cca-89ad-04db63a3c2a7",
+    "teams": [11, 14],
+    "games": [
+      { "host": 14, "visitor": 11, "date": "1991-04-25", "vhs": [] },
+      { "host": 14, "visitor": 11, "date": "1991-04-27", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1991-04-30", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "91c05ba8-93b9-4937-a2fd-fbfecb209cf8",
+    "teams": [5, 20],
+    "games": [
+      { "host": 5, "visitor": 20, "date": "1991-04-25", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1991-04-28", "vhs": [] },
+      { "host": 20, "visitor": 5, "date": "1991-04-30", "vhs": ["bXNt2wEKa8I"] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "cb1cc521-f744-499d-ad59-06b93dc0780d",
+    "teams": [17, 23],
+    "games": [
+      { "host": 17, "visitor": 23, "date": "1991-04-25", "vhs": [] },
+      { "host": 17, "visitor": 23, "date": "1991-04-27", "vhs": [] },
+      { "host": 23, "visitor": 17, "date": "1991-04-30", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "70d40bb8-a9d5-4fba-b7e8-2167836b1854",
+    "teams": [25, 31],
+    "games": [
+      { "host": 25, "visitor": 31, "date": "1991-04-26", "vhs": [] },
+      { "host": 25, "visitor": 31, "date": "1991-04-28", "vhs": [] },
+      { "host": 31, "visitor": 25, "date": "1991-04-30", "vhs": [] },
+      { "host": 31, "visitor": 25, "date": "1991-05-02", "vhs": [] },
+      { "host": 25, "visitor": 31, "date": "1991-05-04", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "02f0168f-2d85-4694-ae5d-f7637dcfa709",
+    "teams": [1, 9],
+    "games": [
+      { "host": 9, "visitor": 1, "date": "1991-04-26", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1991-04-28", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1991-04-30", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1991-05-02", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1991-05-05", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "5f80bae7-a568-410a-bd5c-2f557387110c",
+    "teams": [2, 12],
+    "games": [
+      { "host": 2, "visitor": 12, "date": "1991-04-26", "vhs": [] },
+      { "host": 2, "visitor": 12, "date": "1991-04-28", "vhs": [] },
+      { "host": 12, "visitor": 2, "date": "1991-05-01", "vhs": [] },
+      { "host": 12, "visitor": 2, "date": "1991-05-03", "vhs": [] },
+      { "host": 2, "visitor": 12, "date": "1991-05-05", "vhs": ["bWKR5jmL2zE"] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1991
+  },
+  {
+    "id": "176f1d87-78f3-493d-b4af-b9785f58c3fa",
+    "teams": [5, 23],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 23,
+        "date": "1991-05-04",
+        "vhs": ["PL3CFF2313FACBB485"]
+      },
+      {
+        "host": 5,
+        "visitor": 23,
+        "date": "1991-05-06",
+        "vhs": ["PL98D0B8B1B438C301"]
+      },
+      { "host": 23, "visitor": 5, "date": "1991-05-10", "vhs": [] },
+      {
+        "host": 23,
+        "visitor": 5,
+        "date": "1991-05-12",
+        "vhs": ["PL3F687876FAEAA5F8"]
+      },
+      {
+        "host": 5,
+        "visitor": 23,
+        "date": "1991-05-14",
+        "vhs": ["PL8C1317971928DD95"]
+      }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1991
+  },
+  {
+    "id": "b79eef74-f0e0-449f-a3dc-5f12fb277f24",
+    "teams": [10, 14],
+    "games": [
+      { "host": 14, "visitor": 10, "date": "1991-05-05", "vhs": [] },
+      { "host": 14, "visitor": 10, "date": "1991-05-08", "vhs": [] },
+      { "host": 10, "visitor": 14, "date": "1991-05-10", "vhs": [] },
+      { "host": 10, "visitor": 14, "date": "1991-05-12", "vhs": [] },
+      { "host": 14, "visitor": 10, "date": "1991-05-14", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1991
+  },
+  {
+    "id": "bfc7ebd7-8624-4786-8dce-50c4ba40385d",
+    "teams": [2, 9],
+    "games": [
+      { "host": 2, "visitor": 9, "date": "1991-05-07", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1991-05-09", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1991-05-11", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1991-05-13", "vhs": [] },
+      { "host": 2, "visitor": 9, "date": "1991-05-15", "vhs": [] },
+      { "host": 9, "visitor": 2, "date": "1991-05-17", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1991
+  },
+  {
+    "id": "b1d32149-17fd-4dab-a402-a58ec5b4378b",
+    "teams": [25, 29],
+    "games": [
+      { "host": 25, "visitor": 29, "date": "1991-05-07", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1991-05-09", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1991-05-11", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1991-05-12", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1991-05-14", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1991
+  },
+  {
+    "id": "ce2b092c-9833-43e9-bda8-babe9b48dce7",
+    "teams": [14, 25],
+    "games": [
+      { "host": 25, "visitor": 14, "date": "1991-05-18", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1991-05-21", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1991-05-24", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1991-05-26", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1991-05-28", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1991-05-30", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1991
+  },
+  {
+    "id": "148c3ba7-d7a6-4b5b-8c26-7a648479f5e2",
+    "teams": [5, 9],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 9,
+        "date": "1991-05-19",
+        "vhs": ["rXU-TIcLOpw", "PL9CDC983E6E887AAE"]
+      },
+      { "host": 5, "visitor": 9, "date": "1991-05-21", "vhs": [] },
+      {
+        "host": 9,
+        "visitor": 5,
+        "date": "1991-05-25",
+        "vhs": ["8f55MC1UR7A", "PLACFCC65906163BE5"]
+      },
+      { "host": 9, "visitor": 5, "date": "1991-05-27", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1991
+  },
+  {
+    "id": "6fae7279-3edb-42d7-8c81-7fe64e649e87",
+    "teams": [5, 14],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 14,
+        "date": "1991-06-02",
+        "vhs": ["4bxxGOqpDLw", "iCqkfvbnw8M", "PLD08D3B6C9A283703"]
+      },
+      {
+        "host": 5,
+        "visitor": 14,
+        "date": "1991-06-05",
+        "vhs": ["W7Hf_Dtp9BY", "PLE3E216E7BE39821C"]
+      },
+      {
+        "host": 14,
+        "visitor": 5,
+        "date": "1991-06-07",
+        "vhs": ["5rDAyJf05lE", "PL6174A4348E11F3E3"]
+      },
+      {
+        "host": 14,
+        "visitor": 5,
+        "date": "1991-06-09",
+        "vhs": ["ULissQEMuvk", "ssUhHsCorPw", "PLEFE486FD4FCAD95E"]
+      },
+      {
+        "host": 14,
+        "visitor": 5,
+        "date": "1991-06-12",
+        "vhs": ["-Q3WUdxDH8M", "YncUd5NxOSk"]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1991
+  },
+  {
+    "id": "1e6c215d-beb0-4db3-9d60-0db3cf6aa7f6",
+    "teams": [6, 34],
+    "games": [
+      { "host": 6, "visitor": 34, "date": "1992-04-23", "vhs": [] },
+      { "host": 6, "visitor": 34, "date": "1992-04-25", "vhs": [] },
+      {
+        "host": 34,
+        "visitor": 6,
+        "date": "1992-04-28",
+        "vhs": ["ylQzTCGIA6E"]
+      },
+      { "host": 34, "visitor": 6, "date": "1992-04-30", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "907493e6-665e-434d-a3e3-55dfa6e410d3",
+    "teams": [24, 27],
+    "games": [
+      { "host": 24, "visitor": 27, "date": "1992-04-24", "vhs": [] },
+      { "host": 24, "visitor": 27, "date": "1992-04-26", "vhs": [] },
+      { "host": 27, "visitor": 24, "date": "1992-04-29", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "e82ea719-5ec9-4e48-b73a-2a886d402d56",
+    "teams": [2, 12],
+    "games": [
+      { "host": 2, "visitor": 12, "date": "1992-04-23", "vhs": [] },
+      { "host": 2, "visitor": 12, "date": "1992-04-25", "vhs": [] },
+      { "host": 12, "visitor": 2, "date": "1992-04-27", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "cd6e12c6-016d-4e7a-9efb-6c2b2c785b1e",
+    "teams": [13, 29],
+    "games": [
+      { "host": 29, "visitor": 13, "date": "1992-04-24", "vhs": [] },
+      { "host": 29, "visitor": 13, "date": "1992-04-26", "vhs": [] },
+      { "host": 13, "visitor": 29, "date": "1992-04-28", "vhs": [] },
+      { "host": 13, "visitor": 29, "date": "1992-05-03", "vhs": [] },
+      { "host": 29, "visitor": 13, "date": "1992-05-04", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "8004ee19-38e2-4452-829a-306a4b8a6dc2",
+    "teams": [10, 31],
+    "games": [
+      { "host": 10, "visitor": 31, "date": "1992-04-23", "vhs": [] },
+      { "host": 10, "visitor": 31, "date": "1992-04-25", "vhs": [] },
+      { "host": 31, "visitor": 10, "date": "1992-04-28", "vhs": [] },
+      { "host": 31, "visitor": 10, "date": "1992-04-30", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "c5e8d19e-c90c-46ad-9a81-6f0901055b5a",
+    "teams": [14, 25],
+    "games": [
+      { "host": 25, "visitor": 14, "date": "1992-04-23", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1992-04-25", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1992-04-29", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1992-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "d02ad1f3-5fbc-48a5-88fe-36b1e6480419",
+    "teams": [9, 20],
+    "games": [
+      { "host": 20, "visitor": 9, "date": "1992-04-24", "vhs": [] },
+      {
+        "host": 20,
+        "visitor": 9,
+        "date": "1992-04-26",
+        "vhs": ["v087AItNGQI"]
+      },
+      { "host": 9, "visitor": 20, "date": "1992-04-28", "vhs": [] },
+      { "host": 9, "visitor": 20, "date": "1992-05-01", "vhs": [] },
+      { "host": 20, "visitor": 9, "date": "1992-05-03", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "3867b0d2-ce1a-4190-8eb4-5df53c7174db",
+    "teams": [2, 6],
+    "games": [
+      { "host": 6, "visitor": 2, "date": "1992-05-02", "vhs": [] },
+      { "host": 6, "visitor": 2, "date": "1992-05-04", "vhs": [] },
+      { "host": 2, "visitor": 6, "date": "1992-05-08", "vhs": [] },
+      { "host": 2, "visitor": 6, "date": "1992-05-10", "vhs": [] },
+      { "host": 6, "visitor": 2, "date": "1992-05-13", "vhs": [] },
+      { "host": 2, "visitor": 6, "date": "1992-05-15", "vhs": [] },
+      { "host": 6, "visitor": 2, "date": "1992-05-17", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1992
+  },
+  {
+    "id": "ffbb2168-a275-4ea0-a943-41f13eb5a2f6",
+    "teams": [24, 25],
+    "games": [
+      { "host": 25, "visitor": 24, "date": "1992-05-05", "vhs": [] },
+      { "host": 25, "visitor": 24, "date": "1992-05-07", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1992-05-09", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1992-05-11", "vhs": [] },
+      { "host": 25, "visitor": 24, "date": "1992-05-14", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1992
+  },
+  {
+    "id": "40891bd9-3f5a-4ebc-b011-7ea4f1f4a13f",
+    "teams": [29, 31],
+    "games": [
+      { "host": 29, "visitor": 31, "date": "1992-05-06", "vhs": [] },
+      { "host": 29, "visitor": 31, "date": "1992-05-08", "vhs": [] },
+      { "host": 31, "visitor": 29, "date": "1992-05-10", "vhs": [] },
+      { "host": 31, "visitor": 29, "date": "1992-05-12", "vhs": [] },
+      { "host": 29, "visitor": 31, "date": "1992-05-14", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1992
+  },
+  {
+    "id": "9678dfd0-e770-4190-87dc-ac3b67c9fdc9",
+    "teams": [5, 20],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 20,
+        "date": "1992-05-05",
+        "vhs": ["eg2w0SgbkW4", "PL5B95B5343D45E409"]
+      },
+      {
+        "host": 5,
+        "visitor": 20,
+        "date": "1992-05-07",
+        "vhs": ["-cm9OB1Dz-U"]
+      },
+      {
+        "host": 20,
+        "visitor": 5,
+        "date": "1992-05-09",
+        "vhs": ["Ye_aFN35gVs"]
+      },
+      { "host": 20, "visitor": 5, "date": "1992-05-10", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 20,
+        "date": "1992-05-12",
+        "vhs": ["fplYvKL7fvk", "PLBBB893C9A0D06B4A"]
+      },
+      { "host": 20, "visitor": 5, "date": "1992-05-14", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1992-05-17", "vhs": ["HyTo2B9pxcA"] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1992
+  },
+  {
+    "id": "33725f1b-d12f-4bee-8154-28f37bae28ca",
+    "teams": [25, 29],
+    "games": [
+      { "host": 25, "visitor": 29, "date": "1992-05-16", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1992-05-19", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1992-05-22", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1992-05-24", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1992-05-26", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1992-05-28", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1992
+  },
+  {
+    "id": "714f7ea6-11a7-4def-9182-de5f85d084c6",
+    "teams": [5, 6],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 6,
+        "date": "1992-05-19",
+        "vhs": ["PL8568681EC9F2647A"]
+      },
+      { "host": 5, "visitor": 6, "date": "1992-05-21", "vhs": [] },
+      { "host": 6, "visitor": 5, "date": "1992-05-23", "vhs": [] },
+      { "host": 6, "visitor": 5, "date": "1992-05-25", "vhs": [] },
+      { "host": 5, "visitor": 6, "date": "1992-05-27", "vhs": [] },
+      {
+        "host": 6,
+        "visitor": 5,
+        "date": "1992-05-29",
+        "vhs": ["PL71BBB6E245ECB6AA"]
+      }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1992
+  },
+  {
+    "id": "c204bb3a-bf23-436d-8d32-f4b799ca7346",
+    "teams": [5, 25],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 25,
+        "date": "1992-06-03",
+        "vhs": ["J1E9-hHHcv4"]
+      },
+      {
+        "host": 5,
+        "visitor": 25,
+        "date": "1992-06-05",
+        "vhs": ["1fCRvZ1YA8Q", "PLF179AB53B8FE8209"]
+      },
+      {
+        "host": 25,
+        "visitor": 5,
+        "date": "1992-06-07",
+        "vhs": ["m9-HpMZTSXw"]
+      },
+      { "host": 25, "visitor": 5, "date": "1992-06-10", "vhs": [] },
+      {
+        "host": 25,
+        "visitor": 5,
+        "date": "1992-06-12",
+        "vhs": ["PL9CC63E1F97C4FBDB"]
+      },
+      { "host": 5, "visitor": 25, "date": "1992-06-14", "vhs": ["bP43LPMQOEA"] }
+    ],
+    "stage": "Finals",
+    "season": 1992
+  },
+  {
+    "id": "a5af3e25-d51d-46fb-9962-b50c37038416",
+    "teams": [5, 16],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 16,
+        "date": "1992-04-24",
+        "vhs": ["PL28D4D679F9295BBA"]
+      },
+      {
+        "host": 5,
+        "visitor": 16,
+        "date": "1992-04-26",
+        "vhs": ["PLFE6669657C7E42D0"]
+      },
+      {
+        "host": 16,
+        "visitor": 5,
+        "date": "1992-04-29",
+        "vhs": ["F487jqWz-1I", "PL1BA2F343162E475E"]
+      }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1992
+  },
+  {
+    "id": "31763e98-244b-430c-865d-43ae12176eaf",
+    "teams": [25, 27],
+    "games": [
+      { "host": 25, "visitor": 27, "date": "1993-04-29", "vhs": [] },
+      { "host": 25, "visitor": 27, "date": "1993-05-01", "vhs": [] },
+      { "host": 27, "visitor": 25, "date": "1993-05-05", "vhs": [] },
+      { "host": 27, "visitor": 25, "date": "1993-05-07", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "5600f5ab-faa9-4790-9d07-e272f9f6201e",
+    "teams": [6, 34],
+    "games": [
+      { "host": 6, "visitor": 34, "date": "1993-04-29", "vhs": [] },
+      { "host": 6, "visitor": 34, "date": "1993-05-01", "vhs": [] },
+      { "host": 34, "visitor": 6, "date": "1993-05-05", "vhs": [] },
+      { "host": 34, "visitor": 6, "date": "1993-05-07", "vhs": [] },
+      { "host": 6, "visitor": 34, "date": "1993-05-09", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "f1622e5f-12a7-496f-9e88-a5a8af89b295",
+    "teams": [14, 24],
+    "games": [
+      { "host": 24, "visitor": 14, "date": "1993-04-30", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1993-05-02", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1993-05-04", "vhs": [] },
+      { "host": 14, "visitor": 24, "date": "1993-05-06", "vhs": [] },
+      { "host": 24, "visitor": 14, "date": "1993-05-09", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "fd74454a-ff49-4dec-8458-86ff4c90f5bc",
+    "teams": [12, 20],
+    "games": [
+      { "host": 20, "visitor": 12, "date": "1993-04-30", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1993-05-02", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1993-05-04", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1993-05-06", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "faba1c4a-c63d-4823-b839-400502cee949",
+    "teams": [11, 13],
+    "games": [
+      { "host": 11, "visitor": 13, "date": "1993-04-29", "vhs": [] },
+      { "host": 11, "visitor": 13, "date": "1993-05-01", "vhs": [] },
+      { "host": 13, "visitor": 11, "date": "1993-05-03", "vhs": [] },
+      { "host": 13, "visitor": 11, "date": "1993-05-05", "vhs": [] },
+      { "host": 11, "visitor": 13, "date": "1993-05-08", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "a59038a2-572b-4143-b9d0-f084c00c258d",
+    "teams": [2, 4],
+    "games": [
+      { "host": 2, "visitor": 4, "date": "1993-04-29", "vhs": [] },
+      { "host": 2, "visitor": 4, "date": "1993-05-01", "vhs": [] },
+      { "host": 4, "visitor": 2, "date": "1993-05-03", "vhs": [] },
+      { "host": 4, "visitor": 2, "date": "1993-05-05", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "74574f1c-45b1-4dff-a7ce-7886428c196f",
+    "teams": [1, 5],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 1,
+        "date": "1993-04-30",
+        "vhs": ["PL8C42A06D7AAE127E"]
+      },
+      {
+        "host": 5,
+        "visitor": 1,
+        "date": "1993-05-02",
+        "vhs": ["PL2CE4834F379A91BB"]
+      },
+      {
+        "host": 1,
+        "visitor": 5,
+        "date": "1993-05-04",
+        "vhs": ["PL8442FD7F13CA2C72"]
+      }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "7ad7d2e9-a8b7-4fca-aba4-d48e06f94e01",
+    "teams": [29, 31],
+    "games": [
+      { "host": 31, "visitor": 29, "date": "1993-04-30", "vhs": [] },
+      { "host": 31, "visitor": 29, "date": "1993-05-02", "vhs": [] },
+      { "host": 29, "visitor": 31, "date": "1993-05-04", "vhs": [] },
+      { "host": 29, "visitor": 31, "date": "1993-05-06", "vhs": [] },
+      { "host": 31, "visitor": 29, "date": "1993-05-08", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1993
+  },
+  {
+    "id": "a6753752-653c-4873-b1ee-9874dfae0d2f",
+    "teams": [11, 31],
+    "games": [
+      { "host": 31, "visitor": 11, "date": "1993-05-10", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1993-05-12", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1993-05-15", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1993-05-16", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1993-05-18", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1993-05-20", "vhs": [] },
+      {
+        "host": 31,
+        "visitor": 11,
+        "date": "1993-05-22",
+        "vhs": ["byhQFEFqmI8"]
+      }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1993
+  },
+  {
+    "id": "bff9cb78-9e2f-4d66-b180-e61945c8d1b9",
+    "teams": [24, 27],
+    "games": [
+      { "host": 24, "visitor": 27, "date": "1993-05-11", "vhs": [] },
+      { "host": 24, "visitor": 27, "date": "1993-05-13", "vhs": [] },
+      { "host": 27, "visitor": 24, "date": "1993-05-15", "vhs": [] },
+      { "host": 27, "visitor": 24, "date": "1993-05-16", "vhs": [] },
+      { "host": 24, "visitor": 27, "date": "1993-05-18", "vhs": [] },
+      {
+        "host": 27,
+        "visitor": 24,
+        "date": "1993-05-20",
+        "vhs": ["3Gv96Iujly8"]
+      }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1993
+  },
+  {
+    "id": "6b56c4a4-8eb7-41fc-aa90-539fc2d98361",
+    "teams": [4, 20],
+    "games": [
+      { "host": 20, "visitor": 4, "date": "1993-05-09", "vhs": [] },
+      { "host": 20, "visitor": 4, "date": "1993-05-12", "vhs": [] },
+      { "host": 4, "visitor": 20, "date": "1993-05-14", "vhs": [] },
+      { "host": 4, "visitor": 20, "date": "1993-05-16", "vhs": [] },
+      { "host": 20, "visitor": 4, "date": "1993-05-18", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1993
+  },
+  {
+    "id": "d2b5cc18-8a6b-432b-aeee-4e188c907daa",
+    "teams": [5, 6],
+    "games": [
+      { "host": 5, "visitor": 6, "date": "1993-05-11", "vhs": [] },
+      { "host": 5, "visitor": 6, "date": "1993-05-13", "vhs": [] },
+      { "host": 6, "visitor": 5, "date": "1993-05-15", "vhs": [] },
+      { "host": 6, "visitor": 5, "date": "1993-05-17", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1993
+  },
+  {
+    "id": "d663a06a-317f-47bc-b62f-4a72a579afd8",
+    "teams": [5, 20],
+    "games": [
+      {
+        "host": 20,
+        "visitor": 5,
+        "date": "1993-05-23",
+        "vhs": ["PLC8154FCF63A9FC51"]
+      },
+      {
+        "host": 20,
+        "visitor": 5,
+        "date": "1993-05-25",
+        "vhs": ["Pb5ExvhrRc4", "0j-eKTkv9ZY", "PLC70BDE7999CA4834"]
+      },
+      {
+        "host": 5,
+        "visitor": 20,
+        "date": "1993-05-29",
+        "vhs": ["IKbJ10H1T68"]
+      },
+      {
+        "host": 5,
+        "visitor": 20,
+        "date": "1993-05-31",
+        "vhs": ["78VoSVAG-1A", "PL893F0D20FB3FAF47"]
+      },
+      {
+        "host": 20,
+        "visitor": 5,
+        "date": "1993-06-02",
+        "vhs": ["J7dTpXbdj4Q"]
+      },
+      { "host": 5, "visitor": 20, "date": "1993-06-04", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1993
+  },
+  {
+    "id": "8fb2a21e-5610-459a-a747-9dc55e3cd969",
+    "teams": [24, 31],
+    "games": [
+      { "host": 24, "visitor": 31, "date": "1993-05-24", "vhs": [] },
+      { "host": 24, "visitor": 31, "date": "1993-05-26", "vhs": [] },
+      { "host": 31, "visitor": 24, "date": "1993-05-28", "vhs": [] },
+      { "host": 31, "visitor": 24, "date": "1993-05-30", "vhs": [] },
+      { "host": 24, "visitor": 31, "date": "1993-06-01", "vhs": [] },
+      { "host": 31, "visitor": 24, "date": "1993-06-03", "vhs": [] },
+      { "host": 24, "visitor": 31, "date": "1993-06-05", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1993
+  },
+  {
+    "id": "d3fcef6e-d23a-46df-a0e1-21362e58ebe4",
+    "teams": [5, 24],
+    "games": [
+      {
+        "host": 24,
+        "visitor": 5,
+        "date": "1993-06-09",
+        "vhs": ["PL618D2696060053C3"]
+      },
+      {
+        "host": 24,
+        "visitor": 5,
+        "date": "1993-06-11",
+        "vhs": ["PL29BDB5FA734BF5B0"]
+      },
+      {
+        "host": 5,
+        "visitor": 24,
+        "date": "1993-06-13",
+        "vhs": ["jdLs_1gM8_g", "PL3AA4CD119E9B1B33"]
+      },
+      {
+        "host": 5,
+        "visitor": 24,
+        "date": "1993-06-16",
+        "vhs": ["Xv_ieybikBU", "PLC8CE50DB0FDFEC54"]
+      },
+      { "host": 5, "visitor": 24, "date": "1993-06-18", "vhs": [] },
+      { "host": 24, "visitor": 5, "date": "1993-06-20", "vhs": [] }
+    ],
+    "stage": "Finals",
+    "season": 1993
+  },
+  {
+    "id": "567138d5-cf36-4556-96b1-466dd2ab44f5",
+    "teams": [27, 29],
+    "games": [
+      { "host": 27, "visitor": 29, "date": "1994-04-28", "vhs": [] },
+      { "host": 27, "visitor": 29, "date": "1994-04-30", "vhs": [] },
+      { "host": 29, "visitor": 27, "date": "1994-05-03", "vhs": [] },
+      { "host": 29, "visitor": 27, "date": "1994-05-05", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "498bad99-d33e-4848-a83e-da739c3e709a",
+    "teams": [1, 16],
+    "games": [
+      { "host": 1, "visitor": 16, "date": "1994-04-28", "vhs": [] },
+      { "host": 1, "visitor": 16, "date": "1994-04-30", "vhs": [] },
+      { "host": 16, "visitor": 1, "date": "1994-05-03", "vhs": [] },
+      { "host": 16, "visitor": 1, "date": "1994-05-05", "vhs": [] },
+      { "host": 1, "visitor": 16, "date": "1994-05-08", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "b0e2cb79-4739-4c8d-8fe1-31679ac25f3b",
+    "teams": [11, 25],
+    "games": [
+      { "host": 11, "visitor": 25, "date": "1994-04-29", "vhs": [] },
+      { "host": 11, "visitor": 25, "date": "1994-05-01", "vhs": [] },
+      { "host": 25, "visitor": 11, "date": "1994-05-03", "vhs": [] },
+      { "host": 25, "visitor": 11, "date": "1994-05-06", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "3a033ebc-636c-4c65-bbc7-ff8397932a12",
+    "teams": [12, 22],
+    "games": [
+      { "host": 22, "visitor": 12, "date": "1994-04-28", "vhs": [] },
+      { "host": 22, "visitor": 12, "date": "1994-04-30", "vhs": [] },
+      { "host": 12, "visitor": 22, "date": "1994-05-02", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "c4344595-59d4-49fa-9f20-78c6d4f0f4fb",
+    "teams": [20, 34],
+    "games": [
+      { "host": 20, "visitor": 34, "date": "1994-04-29", "vhs": [] },
+      { "host": 20, "visitor": 34, "date": "1994-05-01", "vhs": [] },
+      { "host": 34, "visitor": 20, "date": "1994-05-04", "vhs": [] },
+      { "host": 34, "visitor": 20, "date": "1994-05-06", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "e40107c9-3d7d-46fa-a9e9-34f77644b0bf",
+    "teams": [10, 24],
+    "games": [
+      { "host": 24, "visitor": 10, "date": "1994-04-29", "vhs": [] },
+      { "host": 24, "visitor": 10, "date": "1994-05-01", "vhs": [] },
+      { "host": 10, "visitor": 24, "date": "1994-05-04", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "ba6da71c-4a29-4c62-8b61-474c0c8827c0",
+    "teams": [8, 31],
+    "games": [
+      { "host": 31, "visitor": 8, "date": "1994-04-28", "vhs": [] },
+      { "host": 31, "visitor": 8, "date": "1994-04-30", "vhs": [] },
+      { "host": 8, "visitor": 31, "date": "1994-05-02", "vhs": [] },
+      { "host": 8, "visitor": 31, "date": "1994-05-05", "vhs": [] },
+      { "host": 31, "visitor": 8, "date": "1994-05-07", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "40c852a2-bbc2-4ca1-9c26-eec7a21ed469",
+    "teams": [5, 6],
+    "games": [
+      { "host": 5, "visitor": 6, "date": "1994-04-29", "vhs": [] },
+      { "host": 5, "visitor": 6, "date": "1994-05-01", "vhs": [] },
+      { "host": 6, "visitor": 5, "date": "1994-05-03", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1994
+  },
+  {
+    "id": "55207136-bfe4-4505-9630-a7ad858f77a5",
+    "teams": [11, 24],
+    "games": [
+      { "host": 11, "visitor": 24, "date": "1994-05-08", "vhs": [] },
+      { "host": 11, "visitor": 24, "date": "1994-05-11", "vhs": [] },
+      { "host": 24, "visitor": 11, "date": "1994-05-13", "vhs": [] },
+      {
+        "host": 24,
+        "visitor": 11,
+        "date": "1994-05-15",
+        "vhs": ["V4GJfDUif0s"]
+      },
+      {
+        "host": 11,
+        "visitor": 24,
+        "date": "1994-05-17",
+        "vhs": ["wuD5rC4gwSE"]
+      },
+      { "host": 24, "visitor": 11, "date": "1994-05-19", "vhs": [] },
+      {
+        "host": 11,
+        "visitor": 24,
+        "date": "1994-05-21",
+        "vhs": ["tv5h5ZFFtww"]
+      }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1994
+  },
+  {
+    "id": "a90675de-f634-4d9f-a2e6-630f1000a9c4",
+    "teams": [5, 20],
+    "games": [
+      {
+        "host": 20,
+        "visitor": 5,
+        "date": "1994-05-08",
+        "vhs": ["eC9AGPSwFuc"]
+      },
+      { "host": 20, "visitor": 5, "date": "1994-05-11", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1994-05-13", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1994-05-15", "vhs": [] },
+      { "host": 20, "visitor": 5, "date": "1994-05-18", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1994-05-20", "vhs": [] },
+      { "host": 20, "visitor": 5, "date": "1994-05-22", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1994
+  },
+  {
+    "id": "0d649c52-4fe7-450b-9001-d289ec0caaba",
+    "teams": [8, 29],
+    "games": [
+      { "host": 29, "visitor": 8, "date": "1994-05-10", "vhs": [] },
+      { "host": 29, "visitor": 8, "date": "1994-05-12", "vhs": [] },
+      { "host": 8, "visitor": 29, "date": "1994-05-14", "vhs": [] },
+      { "host": 8, "visitor": 29, "date": "1994-05-15", "vhs": [] },
+      { "host": 29, "visitor": 8, "date": "1994-05-17", "vhs": [] },
+      { "host": 8, "visitor": 29, "date": "1994-05-19", "vhs": [] },
+      { "host": 29, "visitor": 8, "date": "1994-05-21", "vhs": ["1ldhqxR2qw0"] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1994
+  },
+  {
+    "id": "0650f758-edce-4cdb-9b8b-32f396088999",
+    "teams": [1, 12],
+    "games": [
+      { "host": 1, "visitor": 12, "date": "1994-05-10", "vhs": [] },
+      { "host": 1, "visitor": 12, "date": "1994-05-12", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1994-05-14", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1994-05-15", "vhs": [] },
+      { "host": 1, "visitor": 12, "date": "1994-05-17", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1994-05-19", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1994
+  },
+  {
+    "id": "5f58ebc5-e296-45a1-ab71-49d18dacb973",
+    "teams": [11, 29],
+    "games": [
+      {
+        "host": 11,
+        "visitor": 29,
+        "date": "1994-05-23",
+        "vhs": ["WpAZgEna-8g"]
+      },
+      { "host": 11, "visitor": 29, "date": "1994-05-25", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1994-05-27", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1994-05-29", "vhs": [] },
+      {
+        "host": 11,
+        "visitor": 29,
+        "date": "1994-05-31",
+        "vhs": ["haCXtDRNxRA"]
+      }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1994
+  },
+  {
+    "id": "5c1eb852-5832-4643-8c8e-3b84798f7d1a",
+    "teams": [12, 20],
+    "games": [
+      { "host": 20, "visitor": 12, "date": "1994-05-24", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1994-05-26", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1994-05-28", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1994-05-30", "vhs": [] },
+      {
+        "host": 20,
+        "visitor": 12,
+        "date": "1994-06-01",
+        "vhs": ["IpcokBEx3uY"]
+      },
+      { "host": 12, "visitor": 20, "date": "1994-06-03", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1994-06-05", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1994
+  },
+  {
+    "id": "129a1b5f-4b96-4c11-b9a1-3a250360327b",
+    "teams": [11, 20],
+    "games": [
+      {
+        "host": 11,
+        "visitor": 20,
+        "date": "1994-06-08",
+        "vhs": ["iiakaRFTNOc"]
+      },
+      { "host": 11, "visitor": 20, "date": "1994-06-10", "vhs": [] },
+      { "host": 20, "visitor": 11, "date": "1994-06-12", "vhs": [] },
+      { "host": 20, "visitor": 11, "date": "1994-06-15", "vhs": [] },
+      { "host": 20, "visitor": 11, "date": "1994-06-17", "vhs": [] },
+      { "host": 11, "visitor": 20, "date": "1994-06-19", "vhs": [] },
+      { "host": 11, "visitor": 20, "date": "1994-06-22", "vhs": [] }
+    ],
+    "stage": "Finals",
+    "season": 1994
+  },
+  {
+    "id": "a2ad2f14-af2c-4c4a-a212-1cfc056ecc46",
+    "teams": [14, 31],
+    "games": [
+      {
+        "host": 31,
+        "visitor": 14,
+        "date": "1995-04-27",
+        "vhs": ["GwU-J98L1_8"]
+      },
+      { "host": 31, "visitor": 14, "date": "1995-04-29", "vhs": [] },
+      {
+        "host": 14,
+        "visitor": 31,
+        "date": "1995-05-01",
+        "vhs": ["vcH1crxoaK8"]
+      },
+      {
+        "host": 14,
+        "visitor": 31,
+        "date": "1995-05-04",
+        "vhs": ["Pg9viTP9oxk"]
+      }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "f99cfd84-907f-4825-a694-335f9adde519",
+    "teams": [2, 22],
+    "games": [
+      { "host": 22, "visitor": 2, "date": "1995-04-28", "vhs": [] },
+      { "host": 22, "visitor": 2, "date": "1995-04-30", "vhs": [] },
+      { "host": 2, "visitor": 22, "date": "1995-05-03", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "220f44be-4eae-423d-8830-e701522448e0",
+    "teams": [6, 20],
+    "games": [
+      { "host": 20, "visitor": 6, "date": "1995-04-27", "vhs": [] },
+      { "host": 20, "visitor": 6, "date": "1995-04-29", "vhs": [] },
+      { "host": 6, "visitor": 20, "date": "1995-05-01", "vhs": [] },
+      { "host": 6, "visitor": 20, "date": "1995-05-04", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "c4bec631-1b7c-47f4-8dec-9364dbb37165",
+    "teams": [24, 25],
+    "games": [
+      { "host": 24, "visitor": 25, "date": "1995-04-28", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1995-04-30", "vhs": [] },
+      {
+        "host": 25,
+        "visitor": 24,
+        "date": "1995-05-02",
+        "vhs": ["gH09L41fep0"]
+      }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "a8fa97b7-d359-47ff-b8d1-faaf0cd199d5",
+    "teams": [14, 27],
+    "games": [
+      { "host": 27, "visitor": 14, "date": "1995-05-06", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1995-05-08", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1995-05-12", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1995-05-14", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1995-05-16", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1995-05-18", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1995
+  },
+  {
+    "id": "96efa626-fd10-4222-a5a6-1951684747f2",
+    "teams": [11, 29],
+    "games": [
+      { "host": 29, "visitor": 11, "date": "1995-04-27", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1995-04-29", "vhs": [] },
+      { "host": 11, "visitor": 29, "date": "1995-05-03", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1995-05-07", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "43b74cf4-1bed-49e3-989e-638286927aba",
+    "teams": [1, 12],
+    "games": [
+      { "host": 12, "visitor": 1, "date": "1995-04-27", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1995-04-29", "vhs": [] },
+      { "host": 1, "visitor": 12, "date": "1995-05-02", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "0904b280-1591-4249-a15d-c31967b50287",
+    "teams": [4, 5],
+    "games": [
+      {
+        "host": 4,
+        "visitor": 5,
+        "date": "1995-04-28",
+        "vhs": ["PL83D368F419FAF180"]
+      },
+      { "host": 4, "visitor": 5, "date": "1995-04-30", "vhs": [] },
+      { "host": 5, "visitor": 4, "date": "1995-05-02", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 4,
+        "date": "1995-05-04",
+        "vhs": ["PL076792709E028E9B"]
+      }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "feb4754f-3347-4843-8eda-18cc2313513c",
+    "teams": [8, 27],
+    "games": [
+      { "host": 27, "visitor": 8, "date": "1995-04-28", "vhs": [] },
+      { "host": 27, "visitor": 8, "date": "1995-04-30", "vhs": [] },
+      { "host": 8, "visitor": 27, "date": "1995-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1995
+  },
+  {
+    "id": "2b84e0cf-b9c3-4dc1-80c0-32d9119c07eb",
+    "teams": [5, 22],
+    "games": [
+      {
+        "host": 22,
+        "visitor": 5,
+        "date": "1995-05-07",
+        "vhs": ["PL033221C0268E35EF"]
+      },
+      {
+        "host": 22,
+        "visitor": 5,
+        "date": "1995-05-10",
+        "vhs": ["PL0DCC4B21FD99F714"]
+      },
+      { "host": 5, "visitor": 22, "date": "1995-05-12", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 22,
+        "date": "1995-05-14",
+        "vhs": ["ziuie1ZULSg", "PL1D8782AB06EB51F3"]
+      },
+      { "host": 22, "visitor": 5, "date": "1995-05-16", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 22,
+        "date": "1995-05-18",
+        "vhs": ["dTq0WXqxPdc", "PLE60C46CACB17DFFF"]
+      }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1995
+  },
+  {
+    "id": "4e237886-f226-4024-82cc-cfd5a6468ec2",
+    "teams": [11, 24],
+    "games": [
+      { "host": 24, "visitor": 11, "date": "1995-05-09", "vhs": [] },
+      { "host": 24, "visitor": 11, "date": "1995-05-11", "vhs": [] },
+      { "host": 11, "visitor": 24, "date": "1995-05-13", "vhs": [] },
+      { "host": 11, "visitor": 24, "date": "1995-05-14", "vhs": [] },
+      { "host": 24, "visitor": 11, "date": "1995-05-16", "vhs": [] },
+      { "host": 11, "visitor": 24, "date": "1995-05-18", "vhs": [] },
+      {
+        "host": 24,
+        "visitor": 11,
+        "date": "1995-05-20",
+        "vhs": ["7JHSqVVWP-M"]
+      }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1995
+  },
+  {
+    "id": "6dc04847-4f82-4811-8ae3-0c018dfd5196",
+    "teams": [12, 20],
+    "games": [
+      {
+        "host": 20,
+        "visitor": 12,
+        "date": "1995-05-07",
+        "vhs": ["rklTdl2KWZY"]
+      },
+      { "host": 20, "visitor": 12, "date": "1995-05-09", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1995-05-11", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1995-05-13", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1995-05-17", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1995-05-19", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1995-05-21", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1995
+  },
+  {
+    "id": "8c4ad5d0-d4af-445e-9bf8-b42098613f79",
+    "teams": [11, 27],
+    "games": [
+      { "host": 27, "visitor": 11, "date": "1995-05-22", "vhs": [] },
+      {
+        "host": 27,
+        "visitor": 11,
+        "date": "1995-05-24",
+        "vhs": ["_c7p0YJsbFQ"]
+      },
+      { "host": 11, "visitor": 27, "date": "1995-05-26", "vhs": [] },
+      {
+        "host": 11,
+        "visitor": 27,
+        "date": "1995-05-28",
+        "vhs": ["jXPy1nlRdJI"]
+      },
+      {
+        "host": 27,
+        "visitor": 11,
+        "date": "1995-05-30",
+        "vhs": ["DhmwyqTqtL4"]
+      },
+      {
+        "host": 11,
+        "visitor": 27,
+        "date": "1995-06-01",
+        "vhs": ["EjGcnRFj56Q"]
+      }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1995
+  },
+  {
+    "id": "7a772370-302c-4e3b-b21a-e4f69168b2c5",
+    "teams": [12, 22],
+    "games": [
+      { "host": 22, "visitor": 12, "date": "1995-05-23", "vhs": [] },
+      { "host": 22, "visitor": 12, "date": "1995-05-25", "vhs": [] },
+      { "host": 12, "visitor": 22, "date": "1995-05-27", "vhs": [] },
+      {
+        "host": 12,
+        "visitor": 22,
+        "date": "1995-05-29",
+        "vhs": ["22ySF71ylwQ", "OWqWbz5_PqA"]
+      },
+      { "host": 22, "visitor": 12, "date": "1995-05-31", "vhs": [] },
+      { "host": 12, "visitor": 22, "date": "1995-06-02", "vhs": [] },
+      {
+        "host": 22,
+        "visitor": 12,
+        "date": "1995-06-04",
+        "vhs": ["hVHWGlsuMfo"]
+      }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1995
+  },
+  {
+    "id": "0ab74af3-1eea-4bba-9958-0f25ff4f523d",
+    "teams": [11, 22],
+    "games": [
+      {
+        "host": 22,
+        "visitor": 11,
+        "date": "1995-06-07",
+        "vhs": ["2ixurSIRC6g"]
+      },
+      {
+        "host": 22,
+        "visitor": 11,
+        "date": "1995-06-09",
+        "vhs": ["B_CTPMUF26I"]
+      },
+      { "host": 11, "visitor": 22, "date": "1995-06-11", "vhs": [] },
+      {
+        "host": 11,
+        "visitor": 22,
+        "date": "1995-06-14",
+        "vhs": ["e2iZMSAqBBU"]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1995
+  },
+  {
+    "id": "0875872f-c378-4f31-8411-8ac47e243332",
+    "teams": [5, 16],
+    "games": [
+      { "host": 5, "visitor": 16, "date": "1996-04-26", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 16,
+        "date": "1996-04-28",
+        "vhs": ["PLA7500F79828AB2CB"]
+      },
+      { "host": 16, "visitor": 5, "date": "1996-05-01", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "34a7111f-e88b-4cc1-b723-1fb5d1857ccb",
+    "teams": [25, 29],
+    "games": [
+      { "host": 29, "visitor": 25, "date": "1996-04-25", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1996-04-27", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1996-04-29", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1996-05-01", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1996-05-05", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "966c021e-cf34-4faf-a8c0-2353e9b6b810",
+    "teams": [9, 22],
+    "games": [
+      { "host": 22, "visitor": 9, "date": "1996-04-26", "vhs": [] },
+      { "host": 22, "visitor": 9, "date": "1996-04-28", "vhs": [] },
+      { "host": 9, "visitor": 22, "date": "1996-04-30", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "18cab7bb-e998-4d87-ae0e-27fe3b7a34b9",
+    "teams": [26, 31],
+    "games": [
+      { "host": 31, "visitor": 26, "date": "1996-04-26", "vhs": [] },
+      { "host": 31, "visitor": 26, "date": "1996-04-28", "vhs": [] },
+      { "host": 26, "visitor": 31, "date": "1996-04-30", "vhs": [] },
+      { "host": 26, "visitor": 31, "date": "1996-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "28140c48-c70b-474c-827c-b7e5033c1b92",
+    "teams": [6, 20],
+    "games": [
+      { "host": 6, "visitor": 20, "date": "1996-04-25", "vhs": [] },
+      { "host": 6, "visitor": 20, "date": "1996-04-27", "vhs": [] },
+      { "host": 20, "visitor": 6, "date": "1996-05-01", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "18e69f9b-d53b-4759-bfe2-817e17fba51d",
+    "teams": [24, 27],
+    "games": [
+      { "host": 27, "visitor": 24, "date": "1996-04-26", "vhs": [] },
+      { "host": 27, "visitor": 24, "date": "1996-04-28", "vhs": [] },
+      { "host": 24, "visitor": 27, "date": "1996-05-01", "vhs": [] },
+      { "host": 24, "visitor": 27, "date": "1996-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "6ab6ba7d-e806-4106-bbc9-424218ddc6fa",
+    "teams": [11, 31],
+    "games": [
+      { "host": 31, "visitor": 11, "date": "1996-05-04", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1996-05-06", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1996-05-10", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1996-05-12", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1996
+  },
+  {
+    "id": "40b41de2-27b7-457a-8c5b-4dce8b232d16",
+    "teams": [5, 20],
+    "games": [
+      { "host": 5, "visitor": 20, "date": "1996-05-05", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 20,
+        "date": "1996-05-07",
+        "vhs": ["Ut9hNvTovsk"]
+      },
+      {
+        "host": 20,
+        "visitor": 5,
+        "date": "1996-05-11",
+        "vhs": ["PL90208F4AF3FF04E8"]
+      },
+      { "host": 20, "visitor": 5, "date": "1996-05-12", "vhs": [] },
+      { "host": 5, "visitor": 20, "date": "1996-05-14", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1996
+  },
+  {
+    "id": "8a0ccc28-9397-4b0c-a253-5e8bc8e3aac8",
+    "teams": [11, 14],
+    "games": [
+      { "host": 14, "visitor": 11, "date": "1996-04-25", "vhs": [] },
+      { "host": 14, "visitor": 11, "date": "1996-04-27", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1996-04-30", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1996-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "f548259d-17cf-4a00-b2d1-5009f2244f80",
+    "teams": [1, 22],
+    "games": [
+      { "host": 22, "visitor": 1, "date": "1996-05-08", "vhs": [] },
+      { "host": 22, "visitor": 1, "date": "1996-05-10", "vhs": [] },
+      { "host": 1, "visitor": 22, "date": "1996-05-12", "vhs": [] },
+      { "host": 1, "visitor": 22, "date": "1996-05-13", "vhs": [] },
+      { "host": 22, "visitor": 1, "date": "1996-05-15", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1996
+  },
+  {
+    "id": "685165eb-d2c8-4983-b1ec-951703e107c7",
+    "teams": [27, 29],
+    "games": [
+      { "host": 27, "visitor": 29, "date": "1996-05-07", "vhs": [] },
+      { "host": 27, "visitor": 29, "date": "1996-05-09", "vhs": [] },
+      { "host": 29, "visitor": 27, "date": "1996-05-11", "vhs": [] },
+      { "host": 29, "visitor": 27, "date": "1996-05-12", "vhs": [] },
+      { "host": 27, "visitor": 29, "date": "1996-05-14", "vhs": [] },
+      { "host": 29, "visitor": 27, "date": "1996-05-16", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1996
+  },
+  {
+    "id": "484698f6-6d2a-4100-94ef-93cb4c39c9fc",
+    "teams": [29, 31],
+    "games": [
+      { "host": 31, "visitor": 29, "date": "1996-05-18", "vhs": [] },
+      { "host": 31, "visitor": 29, "date": "1996-05-20", "vhs": [] },
+      { "host": 29, "visitor": 31, "date": "1996-05-24", "vhs": [] },
+      { "host": 29, "visitor": 31, "date": "1996-05-26", "vhs": [] },
+      { "host": 31, "visitor": 29, "date": "1996-05-28", "vhs": [] },
+      { "host": 29, "visitor": 31, "date": "1996-05-30", "vhs": [] },
+      {
+        "host": 31,
+        "visitor": 29,
+        "date": "1996-06-02",
+        "vhs": ["65Bd8vQY7Vc"]
+      }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1996
+  },
+  {
+    "id": "d8eb42f2-b5f9-4c0a-b7e8-a944bc3ee6e3",
+    "teams": [5, 22],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 22,
+        "date": "1996-05-19",
+        "vhs": ["PLD64A276EFA7FD793"]
+      },
+      { "host": 5, "visitor": 22, "date": "1996-05-21", "vhs": [] },
+      { "host": 22, "visitor": 5, "date": "1996-05-25", "vhs": [] },
+      {
+        "host": 22,
+        "visitor": 5,
+        "date": "1996-05-27",
+        "vhs": ["vXlmEdc_Lcc", "PLE6FBD1CF52E31A30"]
+      }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1996
+  },
+  {
+    "id": "cd161047-71ef-4830-9a07-36dc2863021f",
+    "teams": [5, 31],
+    "games": [
+      {
+        "host": 5,
+        "visitor": 31,
+        "date": "1996-06-05",
+        "vhs": ["GsU5uv4Psdg"]
+      },
+      {
+        "host": 5,
+        "visitor": 31,
+        "date": "1996-06-07",
+        "vhs": ["wNt_tegojrk"]
+      },
+      {
+        "host": 31,
+        "visitor": 5,
+        "date": "1996-06-09",
+        "vhs": ["EjQzXC6ly58"]
+      },
+      { "host": 31, "visitor": 5, "date": "1996-06-12", "vhs": [] },
+      {
+        "host": 31,
+        "visitor": 5,
+        "date": "1996-06-14",
+        "vhs": ["BklcEm1Ny0Q", "K8HmqtDKFKU"]
+      },
+      {
+        "host": 5,
+        "visitor": 31,
+        "date": "1996-06-16",
+        "vhs": ["ujTHZlnPcso", "PLED6B262E312EC921"]
+      }
+    ],
+    "stage": "Finals",
+    "season": 1996
+  },
+  {
+    "id": "8a22c1de-cad6-4ebf-a028-35ef9e6bd937",
+    "teams": [1, 12],
+    "games": [
+      { "host": 12, "visitor": 1, "date": "1996-04-25", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1996-04-27", "vhs": [] },
+      { "host": 1, "visitor": 12, "date": "1996-04-29", "vhs": [] },
+      { "host": 1, "visitor": 12, "date": "1996-05-02", "vhs": [] },
+      { "host": 12, "visitor": 1, "date": "1996-05-05", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1996
+  },
+  {
+    "id": "6b0a0979-5f4d-4987-9112-ac12406be92e",
+    "teams": [4, 20],
+    "games": [
+      { "host": 20, "visitor": 4, "date": "1997-04-24", "vhs": [] },
+      { "host": 20, "visitor": 4, "date": "1997-04-26", "vhs": [] },
+      { "host": 4, "visitor": 20, "date": "1997-04-28", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "5c2bbaca-05b7-4dde-8664-c20f8855124d",
+    "teams": [5, 32],
+    "games": [
+      { "host": 5, "visitor": 32, "date": "1997-04-25", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 32,
+        "date": "1997-04-27",
+        "vhs": ["HQhUICn0WtY"]
+      },
+      { "host": 32, "visitor": 5, "date": "1997-04-30", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "2da248a9-68f2-4fc6-95d6-5e86674c8d1e",
+    "teams": [13, 29],
+    "games": [
+      { "host": 29, "visitor": 13, "date": "1997-04-24", "vhs": [] },
+      { "host": 29, "visitor": 13, "date": "1997-04-26", "vhs": [] },
+      { "host": 13, "visitor": 29, "date": "1997-04-28", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "3f609930-c4bb-4ede-ac39-480edcc13242",
+    "teams": [14, 25],
+    "games": [
+      { "host": 14, "visitor": 25, "date": "1997-04-25", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1997-04-27", "vhs": [] },
+      {
+        "host": 25,
+        "visitor": 14,
+        "date": "1997-04-30",
+        "vhs": ["I9MEWAvdd58"]
+      },
+      { "host": 25, "visitor": 14, "date": "1997-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "aa8a89aa-ac07-4f5e-8db2-d0b02709646d",
+    "teams": [24, 31],
+    "games": [
+      { "host": 31, "visitor": 24, "date": "1997-04-25", "vhs": [] },
+      { "host": 31, "visitor": 24, "date": "1997-04-27", "vhs": [] },
+      { "host": 24, "visitor": 31, "date": "1997-04-29", "vhs": [] },
+      {
+        "host": 24,
+        "visitor": 31,
+        "date": "1997-05-01",
+        "vhs": ["P48AQ06B8Jg"]
+      },
+      { "host": 31, "visitor": 24, "date": "1997-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "a89b81e3-66d7-44df-bcd4-b5281aabc135",
+    "teams": [1, 9],
+    "games": [
+      { "host": 1, "visitor": 9, "date": "1997-04-25", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1997-04-27", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1997-04-29", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1997-05-02", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1997-05-04", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "1a89d394-cda8-4a55-946a-412de1978430",
+    "teams": [16, 22],
+    "games": [
+      { "host": 16, "visitor": 22, "date": "1997-04-24", "vhs": [] },
+      { "host": 16, "visitor": 22, "date": "1997-04-27", "vhs": [] },
+      { "host": 22, "visitor": 16, "date": "1997-04-29", "vhs": [] },
+      { "host": 22, "visitor": 16, "date": "1997-05-01", "vhs": [] },
+      { "host": 16, "visitor": 22, "date": "1997-05-04", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "4065fcc3-fcbb-4f78-9988-aad9fb4e4aad",
+    "teams": [11, 31],
+    "games": [
+      { "host": 11, "visitor": 31, "date": "1997-05-05", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1997-05-07", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1997-05-09", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1997-05-11", "vhs": [] },
+      { "host": 11, "visitor": 31, "date": "1997-05-13", "vhs": [] },
+      { "host": 31, "visitor": 11, "date": "1997-05-15", "vhs": [] },
+      {
+        "host": 11,
+        "visitor": 31,
+        "date": "1997-05-17",
+        "vhs": ["Yb89AiK-B_E"]
+      }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1997
+  },
+  {
+    "id": "55e0625d-78ec-4765-8ad2-4e02b7067076",
+    "teams": [1, 5],
+    "games": [
+      { "host": 5, "visitor": 1, "date": "1997-05-06", "vhs": [] },
+      { "host": 5, "visitor": 1, "date": "1997-05-08", "vhs": [] },
+      { "host": 1, "visitor": 5, "date": "1997-05-10", "vhs": ["5irnWTg_HDw"] },
+      { "host": 1, "visitor": 5, "date": "1997-05-11", "vhs": [] },
+      { "host": 5, "visitor": 1, "date": "1997-05-13", "vhs": ["Eo4COZ0RyJU"] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1997
+  },
+  {
+    "id": "31202664-0675-46ff-9be7-66303f193882",
+    "teams": [16, 20],
+    "games": [
+      { "host": 16, "visitor": 20, "date": "1997-05-07", "vhs": [] },
+      { "host": 16, "visitor": 20, "date": "1997-05-09", "vhs": [] },
+      { "host": 20, "visitor": 16, "date": "1997-05-11", "vhs": [] },
+      { "host": 20, "visitor": 16, "date": "1997-05-12", "vhs": [] },
+      { "host": 16, "visitor": 20, "date": "1997-05-14", "vhs": [] },
+      {
+        "host": 20,
+        "visitor": 16,
+        "date": "1997-05-16",
+        "vhs": ["huDA1Hn1L-A"]
+      },
+      { "host": 16, "visitor": 20, "date": "1997-05-18", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1997
+  },
+  {
+    "id": "8ccb3be0-31ed-4cb7-8e4e-95914627ed57",
+    "teams": [14, 29],
+    "games": [
+      { "host": 29, "visitor": 14, "date": "1997-05-04", "vhs": [] },
+      { "host": 29, "visitor": 14, "date": "1997-05-06", "vhs": [] },
+      { "host": 14, "visitor": 29, "date": "1997-05-08", "vhs": [] },
+      { "host": 14, "visitor": 29, "date": "1997-05-10", "vhs": [] },
+      { "host": 29, "visitor": 14, "date": "1997-05-12", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1997
+  },
+  {
+    "id": "41c7043b-4c8b-4dba-9f50-3f164afab618",
+    "teams": [11, 29],
+    "games": [
+      { "host": 29, "visitor": 11, "date": "1997-05-19", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1997-05-21", "vhs": [] },
+      { "host": 11, "visitor": 29, "date": "1997-05-23", "vhs": [] },
+      {
+        "host": 11,
+        "visitor": 29,
+        "date": "1997-05-25",
+        "vhs": ["y5hcyCg_eyE", "Zx6zxD850sk"]
+      },
+      { "host": 29, "visitor": 11, "date": "1997-05-27", "vhs": [] },
+      { "host": 11, "visitor": 29, "date": "1997-05-29", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1997
+  },
+  {
+    "id": "939e065f-a5c5-4743-ae00-fb1a557c7f38",
+    "teams": [5, 16],
+    "games": [
+      { "host": 5, "visitor": 16, "date": "1997-05-20", "vhs": [] },
+      { "host": 5, "visitor": 16, "date": "1997-05-22", "vhs": [] },
+      { "host": 16, "visitor": 5, "date": "1997-05-24", "vhs": [] },
+      { "host": 16, "visitor": 5, "date": "1997-05-26", "vhs": [] },
+      { "host": 5, "visitor": 16, "date": "1997-05-28", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1997
+  },
+  {
+    "id": "6e1c1e70-a164-48bd-86ed-b4ec172b4034",
+    "teams": [5, 29],
+    "games": [
+      { "host": 5, "visitor": 29, "date": "1997-06-01", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 29,
+        "date": "1997-06-04",
+        "vhs": ["x4b6MW_esLU"]
+      },
+      { "host": 29, "visitor": 5, "date": "1997-06-06", "vhs": [] },
+      { "host": 29, "visitor": 5, "date": "1997-06-08", "vhs": [] },
+      {
+        "host": 29,
+        "visitor": 5,
+        "date": "1997-06-11",
+        "vhs": ["3yygCeetlF4"]
+      },
+      { "host": 5, "visitor": 29, "date": "1997-06-13", "vhs": ["nuIdO3EGVWg"] }
+    ],
+    "stage": "Finals",
+    "season": 1997
+  },
+  {
+    "id": "e0e82c62-1141-4f8e-86a1-5ff9f9a38f22",
+    "teams": [11, 18],
+    "games": [
+      { "host": 11, "visitor": 18, "date": "1997-04-24", "vhs": [] },
+      { "host": 11, "visitor": 18, "date": "1997-04-26", "vhs": [] },
+      { "host": 18, "visitor": 11, "date": "1997-04-29", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1997
+  },
+  {
+    "id": "0aa8d1e0-bf02-4f5e-854e-6c171cbb9052",
+    "teams": [1, 4],
+    "games": [
+      { "host": 4, "visitor": 1, "date": "1998-04-23", "vhs": [] },
+      { "host": 4, "visitor": 1, "date": "1998-04-25", "vhs": [] },
+      { "host": 1, "visitor": 4, "date": "1998-04-28", "vhs": [] },
+      { "host": 1, "visitor": 4, "date": "1998-05-01", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "3d8fd8e7-6f71-4835-9624-fab6a5225cb4",
+    "teams": [11, 29],
+    "games": [
+      { "host": 29, "visitor": 11, "date": "1998-04-23", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1998-04-25", "vhs": [] },
+      { "host": 11, "visitor": 29, "date": "1998-04-29", "vhs": [] },
+      { "host": 11, "visitor": 29, "date": "1998-05-01", "vhs": [] },
+      { "host": 29, "visitor": 11, "date": "1998-05-03", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "978aa71c-5c37-4fe9-b1c6-9beb274062cd",
+    "teams": [14, 25],
+    "games": [
+      { "host": 14, "visitor": 25, "date": "1998-04-24", "vhs": [] },
+      { "host": 14, "visitor": 25, "date": "1998-04-26", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1998-04-28", "vhs": [] },
+      { "host": 25, "visitor": 14, "date": "1998-04-30", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "c5010c4d-8cde-4e9a-8456-f9c8d191e1c1",
+    "teams": [24, 27],
+    "games": [
+      { "host": 24, "visitor": 27, "date": "1998-04-23", "vhs": [] },
+      { "host": 24, "visitor": 27, "date": "1998-04-25", "vhs": [] },
+      { "host": 27, "visitor": 24, "date": "1998-04-27", "vhs": [] },
+      { "host": 27, "visitor": 24, "date": "1998-04-29", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "593bd557-599a-4f9a-b7b5-cbad94947dce",
+    "teams": [4, 5],
+    "games": [
+      { "host": 5, "visitor": 4, "date": "1998-05-03", "vhs": [] },
+      { "host": 5, "visitor": 4, "date": "1998-05-06", "vhs": [] },
+      { "host": 4, "visitor": 5, "date": "1998-05-08", "vhs": [] },
+      { "host": 4, "visitor": 5, "date": "1998-05-10", "vhs": [] },
+      { "host": 5, "visitor": 4, "date": "1998-05-13", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1998
+  },
+  {
+    "id": "a956525a-0ad3-4bf8-bc6e-f11d0c437c6a",
+    "teams": [14, 31],
+    "games": [
+      { "host": 31, "visitor": 14, "date": "1998-05-04", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1998-05-06", "vhs": [] },
+      { "host": 14, "visitor": 31, "date": "1998-05-08", "vhs": [] },
+      { "host": 14, "visitor": 31, "date": "1998-05-10", "vhs": [] },
+      { "host": 31, "visitor": 14, "date": "1998-05-12", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1998
+  },
+  {
+    "id": "2d6dd674-5aa4-4d5c-b797-9402e785f065",
+    "teams": [12, 20],
+    "games": [
+      { "host": 12, "visitor": 20, "date": "1998-05-05", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1998-05-07", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1998-05-09", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1998-05-10", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1998-05-13", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1998
+  },
+  {
+    "id": "d76e1ae6-8913-428b-9244-e83d50df9787",
+    "teams": [27, 29],
+    "games": [
+      { "host": 29, "visitor": 27, "date": "1998-05-05", "vhs": [] },
+      { "host": 29, "visitor": 27, "date": "1998-05-07", "vhs": [] },
+      { "host": 27, "visitor": 29, "date": "1998-05-09", "vhs": [] },
+      { "host": 27, "visitor": 29, "date": "1998-05-10", "vhs": [] },
+      { "host": 29, "visitor": 27, "date": "1998-05-12", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1998
+  },
+  {
+    "id": "f6ab7475-5941-4fb7-9062-ead763ec8656",
+    "teams": [16, 20],
+    "games": [
+      { "host": 16, "visitor": 20, "date": "1998-04-24", "vhs": [] },
+      {
+        "host": 16,
+        "visitor": 20,
+        "date": "1998-04-26",
+        "vhs": ["ZDcHX4cBU8g"]
+      },
+      { "host": 20, "visitor": 16, "date": "1998-04-28", "vhs": [] },
+      { "host": 20, "visitor": 16, "date": "1998-04-30", "vhs": [] },
+      { "host": 16, "visitor": 20, "date": "1998-05-03", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "999a2c51-8e1f-46a5-ae9a-fc875f1e8a7b",
+    "teams": [5, 34],
+    "games": [
+      { "host": 5, "visitor": 34, "date": "1998-04-24", "vhs": [] },
+      { "host": 5, "visitor": 34, "date": "1998-04-26", "vhs": [] },
+      { "host": 34, "visitor": 5, "date": "1998-04-29", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "22bf5760-1512-485b-9e20-3fda667af12e",
+    "teams": [18, 31],
+    "games": [
+      { "host": 31, "visitor": 18, "date": "1998-04-24", "vhs": [] },
+      { "host": 31, "visitor": 18, "date": "1998-04-26", "vhs": [] },
+      { "host": 18, "visitor": 31, "date": "1998-04-28", "vhs": [] },
+      { "host": 18, "visitor": 31, "date": "1998-04-30", "vhs": [] },
+      { "host": 31, "visitor": 18, "date": "1998-05-02", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "e47163f6-8b19-49f1-a7c4-d5239d6b68c2",
+    "teams": [6, 12],
+    "games": [
+      { "host": 12, "visitor": 6, "date": "1998-04-23", "vhs": [] },
+      { "host": 12, "visitor": 6, "date": "1998-04-25", "vhs": [] },
+      { "host": 6, "visitor": 12, "date": "1998-04-27", "vhs": [] },
+      { "host": 6, "visitor": 12, "date": "1998-04-30", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1998
+  },
+  {
+    "id": "810e2c9a-2d36-4dec-b5d6-685c965cbba1",
+    "teams": [14, 29],
+    "games": [
+      { "host": 29, "visitor": 14, "date": "1998-05-16", "vhs": [] },
+      { "host": 29, "visitor": 14, "date": "1998-05-18", "vhs": [] },
+      { "host": 14, "visitor": 29, "date": "1998-05-22", "vhs": [] },
+      { "host": 14, "visitor": 29, "date": "1998-05-24", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1998
+  },
+  {
+    "id": "60b16a4f-5cca-4128-b0eb-dcc433ef83f4",
+    "teams": [5, 12],
+    "games": [
+      { "host": 5, "visitor": 12, "date": "1998-05-17", "vhs": [] },
+      { "host": 5, "visitor": 12, "date": "1998-05-19", "vhs": [] },
+      { "host": 12, "visitor": 5, "date": "1998-05-23", "vhs": [] },
+      {
+        "host": 12,
+        "visitor": 5,
+        "date": "1998-05-25",
+        "vhs": ["PXTzfrU2Eik"]
+      },
+      { "host": 5, "visitor": 12, "date": "1998-05-27", "vhs": [] },
+      { "host": 12, "visitor": 5, "date": "1998-05-29", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 12,
+        "date": "1998-05-31",
+        "vhs": ["3h5RC5nbpiI", "3h5RC5nbpiI"]
+      }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1998
+  },
+  {
+    "id": "c4a806d8-5dce-40eb-ac18-19924ffa9347",
+    "teams": [5, 29],
+    "games": [
+      {
+        "host": 29,
+        "visitor": 5,
+        "date": "1998-06-03",
+        "vhs": ["0fVSAbVm3GI"]
+      },
+      { "host": 29, "visitor": 5, "date": "1998-06-05", "vhs": [] },
+      { "host": 5, "visitor": 29, "date": "1998-06-07", "vhs": [] },
+      {
+        "host": 5,
+        "visitor": 29,
+        "date": "1998-06-10",
+        "vhs": ["kUVIZoHAWm8"]
+      },
+      { "host": 5, "visitor": 29, "date": "1998-06-12", "vhs": [] },
+      { "host": 29, "visitor": 5, "date": "1998-06-14", "vhs": ["W_5CXa-3SvM"] }
+    ],
+    "stage": "Finals",
+    "season": 1998
+  },
+  {
+    "id": "acf49bcd-2428-4574-a0d4-e6a4acf38727",
+    "teams": [26, 29],
+    "games": [
+      { "host": 29, "visitor": 26, "date": "1999-05-08", "vhs": [] },
+      { "host": 29, "visitor": 26, "date": "1999-05-10", "vhs": [] },
+      { "host": 26, "visitor": 29, "date": "1999-05-12", "vhs": [] },
+      { "host": 26, "visitor": 29, "date": "1999-05-14", "vhs": [] },
+      { "host": 29, "visitor": 26, "date": "1999-05-16", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "7111a2a0-69ce-46e4-850a-a0452b68300d",
+    "teams": [11, 14],
+    "games": [
+      { "host": 14, "visitor": 11, "date": "1999-05-09", "vhs": [] },
+      { "host": 14, "visitor": 11, "date": "1999-05-11", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1999-05-13", "vhs": [] },
+      { "host": 11, "visitor": 14, "date": "1999-05-15", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "30d55a21-8ba2-4a72-b6b7-b7c8171453bb",
+    "teams": [1, 9],
+    "games": [
+      { "host": 1, "visitor": 9, "date": "1999-05-08", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1999-05-10", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1999-05-12", "vhs": [] },
+      { "host": 9, "visitor": 1, "date": "1999-05-14", "vhs": [] },
+      { "host": 1, "visitor": 9, "date": "1999-05-16", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "21e74d2c-1b93-4801-9790-27e4994e0fcc",
+    "teams": [12, 17],
+    "games": [
+      { "host": 12, "visitor": 17, "date": "1999-05-09", "vhs": [] },
+      { "host": 12, "visitor": 17, "date": "1999-05-11", "vhs": [] },
+      { "host": 17, "visitor": 12, "date": "1999-05-13", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "305af4ef-47ba-4698-bab6-d0f776e75241",
+    "teams": [24, 25],
+    "games": [
+      { "host": 25, "visitor": 24, "date": "1999-05-08", "vhs": [] },
+      { "host": 25, "visitor": 24, "date": "1999-05-10", "vhs": [] },
+      { "host": 24, "visitor": 25, "date": "1999-05-12", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "faa79f63-0892-47bc-9238-f9a69de8029f",
+    "teams": [22, 23],
+    "games": [
+      { "host": 22, "visitor": 23, "date": "1999-05-09", "vhs": [] },
+      { "host": 22, "visitor": 23, "date": "1999-05-11", "vhs": [] },
+      { "host": 23, "visitor": 22, "date": "1999-05-13", "vhs": [] },
+      { "host": 23, "visitor": 22, "date": "1999-05-15", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "936b9c4b-8240-476d-81ed-f3e483f09a8f",
+    "teams": [16, 20],
+    "games": [
+      {
+        "host": 16,
+        "visitor": 20,
+        "date": "1999-05-08",
+        "vhs": ["Jz0UAsYyMvc"]
+      },
+      { "host": 16, "visitor": 20, "date": "1999-05-10", "vhs": [] },
+      { "host": 20, "visitor": 16, "date": "1999-05-12", "vhs": [] },
+      { "host": 20, "visitor": 16, "date": "1999-05-14", "vhs": [] },
+      { "host": 16, "visitor": 20, "date": "1999-05-16", "vhs": [] }
+    ],
+    "stage": "Eastern Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "6a6469d7-9ee0-4de0-aa4f-b37045925174",
+    "teams": [18, 27],
+    "games": [
+      { "host": 27, "visitor": 18, "date": "1999-05-09", "vhs": [] },
+      { "host": 27, "visitor": 18, "date": "1999-05-11", "vhs": [] },
+      { "host": 18, "visitor": 27, "date": "1999-05-13", "vhs": [] },
+      { "host": 18, "visitor": 27, "date": "1999-05-15", "vhs": [] }
+    ],
+    "stage": "Western Conference First Round",
+    "season": 1999
+  },
+  {
+    "id": "89a94870-1286-4dde-b5aa-e9c708ba94ca",
+    "teams": [12, 23],
+    "games": [
+      { "host": 12, "visitor": 23, "date": "1999-05-17", "vhs": [] },
+      { "host": 12, "visitor": 23, "date": "1999-05-19", "vhs": [] },
+      { "host": 23, "visitor": 12, "date": "1999-05-21", "vhs": [] },
+      { "host": 23, "visitor": 12, "date": "1999-05-23", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1999
+  },
+  {
+    "id": "da5179fb-9eb5-4182-9ea4-12ad9823321e",
+    "teams": [1, 20],
+    "games": [
+      { "host": 1, "visitor": 20, "date": "1999-05-18", "vhs": [] },
+      { "host": 1, "visitor": 20, "date": "1999-05-20", "vhs": [] },
+      { "host": 20, "visitor": 1, "date": "1999-05-23", "vhs": [] },
+      { "host": 20, "visitor": 1, "date": "1999-05-24", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Semifinals",
+    "season": 1999
+  },
+  {
+    "id": "0580bc1b-9073-4535-90ec-463faca907bf",
+    "teams": [25, 29],
+    "games": [
+      { "host": 29, "visitor": 25, "date": "1999-05-18", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1999-05-20", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1999-05-22", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1999-05-23", "vhs": [] },
+      { "host": 29, "visitor": 25, "date": "1999-05-25", "vhs": [] },
+      { "host": 25, "visitor": 29, "date": "1999-05-27", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1999
+  },
+  {
+    "id": "e3e2762e-c17e-4692-b91b-4078db79c297",
+    "teams": [14, 27],
+    "games": [
+      { "host": 27, "visitor": 14, "date": "1999-05-17", "vhs": [] },
+      { "host": 27, "visitor": 14, "date": "1999-05-19", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1999-05-22", "vhs": [] },
+      { "host": 14, "visitor": 27, "date": "1999-05-23", "vhs": [] }
+    ],
+    "stage": "Western Conference Semifinals",
+    "season": 1999
+  },
+  {
+    "id": "741310e8-9315-41dc-ac6a-5d6c8b32ca41",
+    "teams": [25, 27],
+    "games": [
+      { "host": 27, "visitor": 25, "date": "1999-05-29", "vhs": [] },
+      { "host": 27, "visitor": 25, "date": "1999-05-31", "vhs": [] },
+      { "host": 25, "visitor": 27, "date": "1999-06-04", "vhs": [] },
+      { "host": 25, "visitor": 27, "date": "1999-06-06", "vhs": [] }
+    ],
+    "stage": "Western Conference Finals",
+    "season": 1999
+  },
+  {
+    "id": "1ad56124-c778-4a03-bb41-eef4f2bc6a3f",
+    "teams": [12, 20],
+    "games": [
+      { "host": 12, "visitor": 20, "date": "1999-05-30", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1999-06-01", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1999-06-05", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1999-06-07", "vhs": [] },
+      { "host": 12, "visitor": 20, "date": "1999-06-09", "vhs": [] },
+      { "host": 20, "visitor": 12, "date": "1999-06-11", "vhs": [] }
+    ],
+    "stage": "Eastern Conference Finals",
+    "season": 1999
+  },
+  {
+    "id": "c55df8d2-4c1a-4088-a933-3ae01fec5010",
+    "teams": [20, 27],
+    "games": [
+      { "host": 27, "visitor": 20, "date": "1999-06-16", "vhs": [] },
+      {
+        "host": 27,
+        "visitor": 20,
+        "date": "1999-06-18",
+        "vhs": ["NUCuHESiGgc"]
+      },
+      {
+        "host": 20,
+        "visitor": 27,
+        "date": "1999-06-21",
+        "vhs": ["PJSo_zexm-A"]
+      },
+      { "host": 20, "visitor": 27, "date": "1999-06-23", "vhs": [] },
+      { "host": 20, "visitor": 27, "date": "1999-06-25", "vhs": [] }
+    ],
+    "stage": "Finals",
+    "season": 1999
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "composite": false,
+    "outDir": "./out-tsc/app",
+    "types": []
+  },
+  "files": ["src/index.ts", "node_modules/neo-observable-input/index.ts"],
+  "include": ["src/app/routes/**/*.ts"]
+}
