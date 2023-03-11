@@ -7,7 +7,7 @@ body {
   font-family: "pixel";
   max-width: 600px;
   margin: 0 auto;
-  padding: 50px 25px;
+  padding: 10px 25px 35px 25px;
   color: #333;
 }
 
@@ -71,6 +71,11 @@ a:visited {
 }
 
 /* img */
+.disable {
+  filter: grayscale(1);
+  pointer-events: none;
+}
+
 .pixelate {
   image-rendering: pixelated;
 }
@@ -85,9 +90,23 @@ a:visited {
 }
 
 /* random */
-.disable {
-  filter: grayscale(1);
-  pointer-events: none;
+.small {
+  transform: scale(0.8);
+}
+
+.old-television {
+  aspect-ratio: 4 / 3;
+  height: 100%;
+  width: 100%;
+}
+
+.old-television > * {
+  width: 100%;
+}
+
+/* text */
+.primary {
+  color: orangered;
 }
 
 .text-disable {
@@ -99,16 +118,11 @@ a:visited {
   text-decoration: underline;
 }
 
-.small {
-  transform: scale(0.8);
-}
-
-/* text */
-.primary {
-  color: orangered;
-}
-
 /* space */
-.space {
-  margin-top: 30px;
+.space-lg {
+  margin-top: 55px;
+}
+
+.space-md {
+  margin-top: 27px;
 }

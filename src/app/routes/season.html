@@ -15,7 +15,7 @@
     />
   </div>
 
-  <div *ngIf="playoffs$ | async as playoffs" class="column align gap space">
+  <div *ngIf="playoffs$ | async as playoffs" class="column align gap space-md">
     <playoff-card
       *ngFor="let p of playoffs"
       [playoff]="p"

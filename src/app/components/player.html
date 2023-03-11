@@ -1,10 +1,22 @@
-<iframe
-  type="text/html"
-  width="640"
-  height="360"
-  [src]="url$ | async"
-  frameborder="0"
-></iframe>
+<ng-container *ngIf="url$ | async as url">
+  <div [ngSwitch]="vhsStatus$ | async" class="old-television">
+    <iframe
+      *ngSwitchCase="'valid'"
+      [src]="url"
+      frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+    ></iframe>
+
+    <div *ngSwitchCase="'unauthorized'" class="flex center align">
+      ⚠️ this video can only be watched on youtube, here is the&nbsp;
+      <a [href]="external$ | async" target="_blank">link</a>
+    </div>
+
+    <div *ngSwitchCase="'invalid'" class="flex center align">
+      ⚠️ unavailable video :(
+    </div>
+  </div>
+</ng-container>
 
 <div *ngIf="vhs.length > 1" class="center gap">
   <p
