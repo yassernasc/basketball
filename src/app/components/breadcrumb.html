@@ -1,0 +1,7 @@
+<div class="gap-sm space-sm">
+  <a href="/">Home</a>
+  <ng-container *ngIf="season">
+    <span>/</span>
+    <a href="/season/{{ season }}">Season {{ season | season }}</a>
+  </ng-container>
+</div>

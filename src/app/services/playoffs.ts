@@ -34,4 +34,15 @@ export class PlayoffsService {
     }
     return 7;
   }
+
+  public sortByAvailability(playoffs: PlayoffT[]): PlayoffT[] {
+    const relevanceMap = { gold: 4, good: 3, ok: 2, bad: 1, none: 0 };
+
+    return playoffs.sort((a, b) => {
+      return (
+        relevanceMap[this.availability(b.games)] -
+        relevanceMap[this.availability(a.games)]
+      );
+    });
+  }
 }

@@ -1,4 +1,5 @@
 <ng-container *ngIf="playoff$ | async as playoff">
+  <breadcrumb [season]="season$ | async"></breadcrumb>
   <h1>{{ playoff.teams[0] | teamName }} x {{ playoff.teams[1] | teamName }}</h1>
   <h3>Best of {{ bestOf$ | async }}</h3>
 </ng-container>
