@@ -1,5 +1,6 @@
 <ng-container *ngIf="season$ | async as season">
-  <div *ngIf="stage$ | async as stage" class="between align">
+  <breadcrumb [season]="season"></breadcrumb>
+  <div *ngIf="stage$ | async as stage" class="between align space-sm">
     <img
       src="/back.gif"
       (click)="prevStage()"

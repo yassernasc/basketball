@@ -1,15 +1,16 @@
 <h1 class="space-lg">Classic Basketball Games</h1>
-<h3>Explore Seasons</h3>
+<h3 class="space-lg">Explore Seasons</h3>
 <div class="gap">
-  <ul>
+  <ul class="flex column gap-sm">
     <li *ngFor="let season of seasons | slice:0:half">
       <a routerLink="/season/{{ season }}">{{ season | season }}</a>
     </li>
   </ul>
 
-  <ul>
+  <ul class="flex column gap-sm">
     <li *ngFor="let season of seasons | slice:-half">
       <a routerLink="/season/{{ season }}">{{ season | season }}</a>
     </li>
   </ul>
 </div>
+<img src="/sakuragi.gif" class="corner" />

@@ -38,7 +38,6 @@ export default class SeasonPage {
   );
 
   private stageIndex$ = new BehaviorSubject<number>(0);
-  public index$ = this.stageIndex$.asObservable();
 
   private seasonPlayoffs$ = this.season$.pipe(
     map((season) => this.playoffs.bySeason(+season!))

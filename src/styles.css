@@ -42,6 +42,10 @@ a:visited {
 }
 
 /* flex */
+.flex {
+  display: flex;
+}
+
 .evenly {
   justify-content: space-evenly;
 }
@@ -68,6 +72,10 @@ a:visited {
 
 .gap {
   gap: 30px;
+}
+
+.gap-sm {
+  gap: 10px;
 }
 
 /* img */
@@ -98,10 +106,19 @@ a:visited {
   aspect-ratio: 4 / 3;
   height: 100%;
   width: 100%;
+  box-shadow: dodgerblue 0 0 0 2.5px, springgreen 0 0 0 5px, salmon 0 0 0 7.5px;
 }
 
 .old-television > * {
   width: 100%;
+}
+
+.corner {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  transform: scale(1.4);
+  margin: 15px;
 }
 
 /* text */
@@ -125,4 +142,8 @@ a:visited {
 
 .space-md {
   margin-top: 27px;
+}
+
+.space-sm {
+  margin-top: 15px;
 }
