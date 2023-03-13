@@ -1,15 +1,8 @@
 import { Component } from "@angular/core";
 import { AsyncPipe, NgForOf, NgIf } from "@angular/common";
 import { injectActivatedRoute } from "@analogjs/router";
-import {
-  BehaviorSubject,
-  combineLatestWith,
-  map,
-  startWith,
-  Subject,
-  tap,
-} from "rxjs";
-import { PlayerComponent } from "app/components";
+import { combineLatestWith, map, Subject, tap } from "rxjs";
+import { Breadcrumb, PlayerComponent } from "app/components";
 import { PlayoffsService } from "app/services";
 import { PlayoffT } from "app/types";
 import { TeamNamePipe } from "app/pipes";
@@ -22,7 +15,14 @@ const minimumGames = (gamesNumber: number): number =>
 @Component({
   standalone: true,
   templateUrl: "./playoff.html",
-  imports: [AsyncPipe, NgIf, NgForOf, TeamNamePipe, PlayerComponent],
+  imports: [
+    AsyncPipe,
+    NgIf,
+    NgForOf,
+    TeamNamePipe,
+    PlayerComponent,
+    Breadcrumb,
+  ],
 })
 export default class PlayoffPage {
   private readonly route = injectActivatedRoute();
@@ -33,6 +33,7 @@ export default class PlayoffPage {
   );
 
   public playoff$ = this.playoffId$.pipe(map((id) => this.playoffs.byId(id)));
+  public season$ = this.playoff$.pipe(map((p) => p.season));
 
   public games$ = this.playoff$.pipe(
     map((p: PlayoffT) => p.games.map((g) => g.vhs.length > 0)),

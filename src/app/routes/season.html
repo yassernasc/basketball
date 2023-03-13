@@ -1,4 +1,5 @@
 <ng-container *ngIf="season$ | async as season">
+  <breadcrumb [season]="season"></breadcrumb>
   <div *ngIf="stage$ | async as stage" class="between align">
     <img
       src="/back.gif"
@@ -6,7 +7,7 @@
       class="link red-to-orange"
       [class.disable]="stage === 'First Round'"
     />
-    <h2>{{ season | season }} {{ stage }}</h2>
+    <h2>{{ stage }}</h2>
     <img
       src="/next.gif"
       (click)="nextStage()"

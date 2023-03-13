@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { AsyncPipe, NgForOf, NgIf } from "@angular/common";
 import { injectActivatedRoute } from "@analogjs/router";
 import { BehaviorSubject, combineLatestWith, map } from "rxjs";
-import { PlayoffCardComponent } from "app/components";
+import { Breadcrumb, PlayoffCardComponent } from "app/components";
 import { PlayoffsService } from "app/services";
 import { SeasonPipe } from "app/pipes";
 
@@ -28,7 +28,14 @@ const addConferences = (stageSuffix: string): string[] => {
 @Component({
   standalone: true,
   templateUrl: "./season.html",
-  imports: [AsyncPipe, NgIf, NgForOf, PlayoffCardComponent, SeasonPipe],
+  imports: [
+    AsyncPipe,
+    NgIf,
+    NgForOf,
+    Breadcrumb,
+    PlayoffCardComponent,
+    SeasonPipe,
+  ],
 })
 export default class SeasonPage {
   private readonly route = injectActivatedRoute();
@@ -56,7 +63,9 @@ export default class SeasonPage {
   public playoffs$ = this.seasonPlayoffs$.pipe(
     combineLatestWith(this.stages$),
     map(([playoffs, stages]) =>
-      playoffs.filter((p) => stages.includes(p.stage))
+      this.playoffs.sortByAvailability(
+        playoffs.filter((p) => stages.includes(p.stage))
+      )
     )
   );
 
