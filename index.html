@@ -5,6 +5,11 @@
     <title>Nostalgic Basketball</title>
     <base href="/" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="application-name" content="Nostalgic Basketball" />
+    <meta
+      name="description"
+      content="Watch classical basketball playoffs and finals"
+    />
     <link
       rel="icon"
       type="image/x-icon"
@@ -15,5 +20,16 @@
   <body>
     <app-root></app-root>
     <script type="module" src="/src"></script>
+
+    <!-- analytics -->
+    <script>
+      const isProd = window.location.host.endsWith('vercel.app')
+      if (!isProd) window.goatcounter = { no_onload: true } // skip counter
+    </script>
+    <script
+      data-goatcounter="https://basketball.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
   </body>
 </html>
