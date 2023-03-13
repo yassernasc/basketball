@@ -15,5 +15,16 @@
   <body>
     <app-root></app-root>
     <script type="module" src="/src"></script>
+
+    <!-- analytics -->
+    <script>
+      if (window.location.host.endsWith("vercel.app"))
+        window.goatcounter = { no_onload: true };
+    </script>
+    <script
+      data-goatcounter="https://basketball.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
   </body>
 </html>
