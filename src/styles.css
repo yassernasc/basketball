@@ -42,6 +42,10 @@ a:visited {
 }
 
 /* flex */
+.flex {
+  display: flex;
+}
+
 .evenly {
   justify-content: space-evenly;
 }
@@ -68,6 +72,10 @@ a:visited {
 
 .gap {
   gap: 30px;
+}
+
+.gap-sm {
+  gap: 10px;
 }
 
 /* img */
