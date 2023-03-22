@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "pixel";
-  src: url("/pixel.ttf");
+  font-family: 'pixel';
+  src: url('/pixel.ttf');
 }
 
 body {
-  font-family: "pixel";
+  font-family: 'pixel';
   max-width: 600px;
   margin: 0 auto;
   padding: 10px 25px 35px 25px;

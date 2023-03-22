@@ -4,10 +4,11 @@
     "node": ">=16.0.0"
   },
   "scripts": {
+    "build": "ng build",
     "dev": "ng serve",
+    "format": "prettier --write .",
     "ng": "ng",
     "start": "npm run dev",
-    "build": "ng build",
     "watch": "ng build --watch"
   },
   "dependencies": {
@@ -35,6 +36,7 @@
     "@angular/compiler-cli": "^15.0.0",
     "@nrwl/vite": "^15.7.0",
     "nx": "^15.7.0",
+    "prettier": "2.8.6",
     "typescript": "~4.8.4",
     "vite": "^4.0.3",
     "vite-tsconfig-paths": "^4.0.5"

@@ -1,3 +1,3 @@
-import teams from "data/teams.json";
+import teams from 'data/teams.json'
 
-export type TeamT = typeof teams[number];
+export type TeamT = (typeof teams)[number]

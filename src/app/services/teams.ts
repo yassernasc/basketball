@@ -1,18 +1,18 @@
-import { Injectable } from "@angular/core";
-import { TeamT } from "app/types";
-import teams from "data/teams.json";
+import { Injectable } from '@angular/core'
+import { TeamT } from 'app/types'
+import teams from 'data/teams.json'
 
-@Injectable({ providedIn: "root" })
+@Injectable({ providedIn: 'root' })
 export class TeamsService {
   private get(id: number): TeamT {
-    return teams.find((t) => t.id === id)!;
+    return teams.find(t => t.id === id)!
   }
 
   public name(id: number): string {
-    return this.get(id).name;
+    return this.get(id).name
   }
 
   public abbr(id: number): string {
-    return this.get(id).abbreviation;
+    return this.get(id).abbreviation
   }
 }

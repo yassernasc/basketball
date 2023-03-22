@@ -1,3 +1,3 @@
-export * from "./season";
-export * from "./teamLogo";
-export * from "./teamName";
+export * from './season'
+export * from './teamLogo'
+export * from './teamName'
