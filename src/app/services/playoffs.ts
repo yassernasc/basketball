@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core'
+import { TeamsService } from 'app/services'
 import { PlayoffT, GameT } from 'app/types'
 import playoffs from 'data/playoffs.json'
 
@@ -6,12 +7,28 @@ type AvailabilityT = 'gold' | 'good' | 'ok' | 'bad' | 'none'
 
 @Injectable({ providedIn: 'root' })
 export class PlayoffsService {
+  private readonly teamSeparator = '-vs-'
+
+  private getTeamsName(playoff: PlayoffT): string[] {
+    return playoff.teams.map(id => this.teams.name(id).toLowerCase())
+  }
+
+  constructor(private teams: TeamsService) {}
+
   public bySeason(season: number): PlayoffT[] {
     return playoffs.filter(p => p.season === season)
   }
 
   public byId(id: string): PlayoffT {
     return playoffs.find(p => p.id === id)!
+  }
+
+  public byInfo(season: number, teams: string): PlayoffT {
+    const names = teams.split(this.teamSeparator)
+
+    return playoffs
+      .filter(p => p.season === season)
+      .find(p => this.getTeamsName(p).every(t => names.includes(t)))!
   }
 
   public availability(games: GameT[]): AvailabilityT {
@@ -52,5 +69,9 @@ export class PlayoffsService {
         relevanceMap[this.availability(a.games)]
       )
     })
+  }
+
+  public match(playoff: PlayoffT) {
+    return this.getTeamsName(playoff).join(this.teamSeparator)
   }
 }

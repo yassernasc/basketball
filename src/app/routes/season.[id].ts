@@ -28,7 +28,7 @@ const addConferences = (stageSuffix: string): string[] => {
 
 @Component({
   standalone: true,
-  templateUrl: './season.html',
+  templateUrl: './season.[id].html',
   imports: [
     AsyncPipe,
     NgIf,

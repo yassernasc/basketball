@@ -14,7 +14,7 @@ const minimumGames = (gamesNumber: number): number =>
 
 @Component({
   standalone: true,
-  templateUrl: './playoff.html',
+  templateUrl: './season.[id].[teams].html',
   imports: [
     AsyncPipe,
     NgIf,
@@ -28,11 +28,14 @@ export default class PlayoffPage {
   private readonly route = injectActivatedRoute()
   private gameIndex$: Subject<number> = new Subject()
 
-  private playoffId$ = this.route.paramMap.pipe(
-    map(params => params.get('id')!)
+  public playoff$ = this.route.paramMap.pipe(
+    map(params => {
+      const season = params.get('id')!
+      const teams = params.get('teams')!
+      return this.playoffs.byInfo(+season, teams)
+    })
   )
 
-  public playoff$ = this.playoffId$.pipe(map(id => this.playoffs.byId(id)))
   public season$ = this.playoff$.pipe(map(p => p.season))
 
   public games$ = this.playoff$.pipe(

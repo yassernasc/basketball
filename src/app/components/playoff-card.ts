@@ -21,4 +21,8 @@ export class PlayoffCardComponent {
   get availability() {
     return this.playoffs.availability(this.playoff.games)
   }
+
+  get link() {
+    return this.playoffs.match(this.playoff)
+  }
 }

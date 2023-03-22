@@ -1,7 +1,7 @@
 <div
   class="gap link"
   [class.disable]="availability === 'none'"
-  routerLink="/playoff/{{ playoff.id }}"
+  [routerLink]="link"
 >
   <img
     *ngFor="let teamId of (playoff.teams)"
