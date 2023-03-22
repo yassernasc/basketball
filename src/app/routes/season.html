@@ -1,26 +1,53 @@
 <ng-container *ngIf="season$ | async as season">
-  <breadcrumb [season]="season"></breadcrumb>
-  <div *ngIf="stage$ | async as stage" class="between align space-sm">
-    <img
-      src="/back.gif"
-      (click)="prevStage()"
-      class="link red-to-orange"
-      [class.disable]="stage === 'First Round'"
-    />
-    <h2>{{ stage }}</h2>
-    <img
-      src="/next.gif"
-      (click)="nextStage()"
-      class="link red-to-orange"
-      [class.disable]="stage === 'Finals'"
-    />
-  </div>
+  <ng-container *ngIf="stage$ | async as stage">
+    <breadcrumb [season]="season"></breadcrumb>
+    <div class="between align space-sm">
+      <img
+        src="/back.gif"
+        (click)="prevStage()"
+        class="link red-to-orange"
+        [class.disable]="stage === 'First Round'"
+      />
+      <h2>{{ stage }}</h2>
+      <img
+        src="/next.gif"
+        (click)="nextStage()"
+        class="link red-to-orange"
+        [class.disable]="stage === 'Finals'"
+      />
+    </div>
 
-  <div *ngIf="playoffs$ | async as playoffs" class="column align gap space-md">
-    <playoff-card
-      *ngFor="let p of playoffs"
-      [playoff]="p"
-      [season]="season"
-    ></playoff-card>
-  </div>
+    <div *ngIf="stage === 'Finals'; then finals else notFinals"></div>
+
+    <ng-template #finals>
+      <div *ngIf="finals$ | async as finals" class="space-lg center">
+        <playoff-card [playoff]="finals" [season]="season"></playoff-card>
+      </div>
+    </ng-template>
+
+    <ng-template #notFinals>
+      <div class="around wrap">
+        <div class="block space-md">
+          <h3 class="text-center underline">Eastern</h3>
+          <div class="column gap space-md">
+            <playoff-card
+              *ngFor="let p of east$ | async"
+              [playoff]="p"
+              [season]="season"
+            ></playoff-card>
+          </div>
+        </div>
+        <div class="block space-md">
+          <h3 class="text-center underline">Western</h3>
+          <div class="column gap space-md">
+            <playoff-card
+              *ngFor="let p of west$ | async"
+              [playoff]="p"
+              [season]="season"
+            ></playoff-card>
+          </div>
+        </div>
+      </div>
+    </ng-template>
+  </ng-container>
 </ng-container>

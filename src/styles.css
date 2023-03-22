@@ -46,6 +46,10 @@ a:visited {
   display: flex;
 }
 
+.around {
+  justify-content: space-around;
+}
+
 .evenly {
   justify-content: space-evenly;
 }
@@ -122,6 +126,10 @@ a:visited {
 }
 
 /* text */
+.text-center {
+  text-align: center;
+}
+
 .primary {
   color: orangered;
 }
@@ -132,6 +140,10 @@ a:visited {
 }
 
 .active {
+  text-decoration: underline;
+}
+
+.underline {
   text-decoration: underline;
 }
 

@@ -35,6 +35,14 @@ export class PlayoffsService {
     return 7;
   }
 
+  public conf(playoff: PlayoffT): "east" | "west" | null {
+    const { stage } = playoff;
+
+    if (stage.includes("Eastern")) return "east";
+    if (stage.includes("Western")) return "west";
+    return null;
+  }
+
   public sortByAvailability(playoffs: PlayoffT[]): PlayoffT[] {
     const relevanceMap = { gold: 4, good: 3, ok: 2, bad: 1, none: 0 };
 

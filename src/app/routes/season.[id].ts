@@ -1,10 +1,11 @@
 import { Component } from "@angular/core";
 import { AsyncPipe, NgForOf, NgIf } from "@angular/common";
 import { injectActivatedRoute } from "@analogjs/router";
-import { BehaviorSubject, combineLatestWith, map } from "rxjs";
+import { BehaviorSubject, combineLatestWith, map, Observable } from "rxjs";
 import { Breadcrumb, PlayoffCardComponent } from "app/components";
 import { PlayoffsService } from "app/services";
 import { SeasonPipe } from "app/pipes";
+import { PlayoffT } from "app/types";
 
 const stageSuffixes = [
   "Conference First Round",
@@ -67,6 +68,18 @@ export default class SeasonPage {
         playoffs.filter((p) => stages.includes(p.stage))
       )
     )
+  );
+
+  public east$ = this.playoffs$.pipe(
+    map((playoffs) => playoffs.filter((p) => this.playoffs.conf(p) === "east"))
+  );
+
+  public west$ = this.playoffs$.pipe(
+    map((playoffs) => playoffs.filter((p) => this.playoffs.conf(p) === "west"))
+  );
+
+  public finals$: Observable<PlayoffT> = this.playoffs$.pipe(
+    map((playoffs) => playoffs.find((p) => p.stage === "Finals")!)
   );
 
   constructor(private playoffs: PlayoffsService) {}

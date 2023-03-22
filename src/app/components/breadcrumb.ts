@@ -10,5 +10,5 @@ import { SeasonPipe } from "app/pipes";
   imports: [NgIf, SeasonPipe],
 })
 export class Breadcrumb {
-  @Input() season: string | undefined;
+  @Input() season!: number | null;
 }
