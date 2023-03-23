@@ -125,6 +125,12 @@ a:visited {
   margin: 15px;
 }
 
+.card {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  padding: 15px;
+  border-radius: 4px;
+}
+
 /* text */
 .text-center {
   text-align: center;
