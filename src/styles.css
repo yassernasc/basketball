@@ -82,6 +82,10 @@ a:visited {
   gap: 10px;
 }
 
+.self-center {
+  align-self: center;
+}
+
 /* img */
 .disable {
   filter: grayscale(1) !important;

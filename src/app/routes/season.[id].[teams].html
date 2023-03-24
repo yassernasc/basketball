@@ -1,20 +1,33 @@
-<ng-container *ngIf="playoff$ | async as playoff">
+<ng-container *ngIf="maxGamesNumber$ | async as maxGames">
   <breadcrumb [season]="season$ | async"></breadcrumb>
-  <h1>{{ playoff.teams[0] | teamName }} x {{ playoff.teams[1] | teamName }}</h1>
-  <h3>Best of {{ bestOf$ | async }}</h3>
+
+  <h1 *ngIf="playoff$ | async as playoff">
+    {{ playoff.teams[0] | teamName }} x {{ playoff.teams[1] | teamName }}
+  </h1>
+
+  <h3>Best of {{ maxGames }}</h3>
+
+  <player *ngIf="vhs$ | async as vhs" [vhs]="vhs"></player>
+
+  <ng-container *ngIf="games$ | async as games">
+    <div *ngIf="(gamesVisible$ | async | range) as indexes" class="evenly">
+      <p
+        *ngFor="let i of indexes"
+        [class.active]="i === (gameIndex$ | obs | async)"
+        [class.primary]="games[i]"
+        [class.link]="games[i]"
+        [class.text-disable]="!(games[i])"
+        (click)="gameIndex$.next(i)"
+      >
+        Game {{ i + 1 }}
+      </p>
+      <button
+        class="self-center"
+        [disabled]="disableBtn || (indexes.length === maxGames)"
+        (click)="unlockClick$.next()"
+      >
+        is there a next game?
+      </button>
+    </div>
+  </ng-container>
 </ng-container>
-
-<player *ngIf="vhs$ | async as vhs" [vhs]="vhs"></player>
-
-<div *ngIf="games$ | async as games" class="evenly">
-  <p
-    *ngFor="let game of games; index as i"
-    [class.active]="i === (index$ | async)"
-    [class.primary]="game"
-    [class.link]="game"
-    [class.text-disable]="!game"
-    (click)="setGame(i)"
-  >
-    Game {{ i + 1 }}
-  </p>
-</div>
