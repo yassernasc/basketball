@@ -1,5 +1,13 @@
 <h1 class="space-lg">Classical Basketball Games</h1>
-<h3 class="space-lg">Explore Seasons</h3>
+
+<h3 class="space-lg">Featured Games</h3>
+<div class="gap-md flow-x p p-l-xs">
+  <div *ngFor="let playoff of featured">
+    <playoff-showcase [playoff]="playoff"></playoff-showcase>
+  </div>
+</div>
+
+<h3 class="m-t-40">Explore Seasons</h3>
 <div class="gap">
   <ul class="flex column gap-sm">
     <li *ngFor="let season of seasons | slice:0:half">

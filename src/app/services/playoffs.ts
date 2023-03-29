@@ -74,4 +74,9 @@ export class PlayoffsService {
   public match(playoff: PlayoffT) {
     return this.getTeamsName(playoff).join(this.teamSeparator)
   }
+
+  public featured(): PlayoffT[] {
+    // only complete games
+    return playoffs.filter(p => p.games.every(g => g.vhs.length > 0))
+  }
 }

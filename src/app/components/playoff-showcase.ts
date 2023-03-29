@@ -1,27 +1,23 @@
 import { NgForOf, NgIf } from '@angular/common'
 import { ChangeDetectionStrategy, Component, Input } from '@angular/core'
 import { RouterLink } from '@angular/router'
-import { TeamLogoPipe } from 'app/pipes'
+import { SeasonPipe, StagePipe, TeamLogoPipe } from 'app/pipes'
 import { PlayoffsService } from 'app/services'
 import { PlayoffT } from 'app/types'
 
 @Component({
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [NgIf, NgForOf, RouterLink, TeamLogoPipe],
-  selector: 'playoff-card',
+  imports: [NgIf, NgForOf, RouterLink, TeamLogoPipe, SeasonPipe, StagePipe],
+  selector: 'playoff-showcase',
   standalone: true,
-  templateUrl: './playoff-card.html',
+  templateUrl: './playoff-showcase.html',
 })
-export class PlayoffCardComponent {
+export class PlayoffShowcaseComponent {
   @Input() playoff!: PlayoffT
 
   constructor(private playoffs: PlayoffsService) {}
 
-  get availability() {
-    return this.playoffs.availability(this.playoff.games)
-  }
-
   get link() {
-    return this.playoffs.match(this.playoff)
+    return `/season/${this.playoff.season}/${this.playoffs.match(this.playoff)}`
   }
 }

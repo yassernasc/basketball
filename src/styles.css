@@ -78,6 +78,10 @@ a:visited {
   gap: 30px;
 }
 
+.gap-md {
+  gap: 14px;
+}
+
 .gap-sm {
   gap: 10px;
 }
@@ -100,9 +104,14 @@ a:visited {
   filter: hue-rotate(-45deg);
 }
 
-.hardcoded-size {
+.img-lg {
   height: 100px;
   width: 100px;
+}
+
+.img-md {
+  height: 75px;
+  width: 75px;
 }
 
 /* random */
@@ -133,6 +142,10 @@ a:visited {
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
   padding: 15px;
   border-radius: 4px;
+}
+
+.flow-x {
+  overflow-x: scroll;
 }
 
 /* text */
@@ -172,4 +185,16 @@ a:visited {
 
 .space-sm {
   margin-top: 15px;
+}
+
+.m-t-40 {
+  margin-top: 40px;
+}
+
+.p {
+  padding: 15px;
+}
+
+.p-l-xs {
+  padding-left: 2px;
 }

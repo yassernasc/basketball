@@ -1,0 +1,17 @@
+<div
+  class="column card link gap-sm"
+  [class.disable]="availability === 'none'"
+  [routerLink]="link"
+>
+  <div class="gap">
+    <img
+      *ngFor="let teamId of playoff.teams"
+      class="pixelate img-md"
+      [src]="teamId | teamLogo:playoff.season"
+    />
+  </div>
+
+  <span class="text-center underline">
+    {{ playoff.season | season }} {{ playoff.stage | stage }}
+  </span>
+</div>

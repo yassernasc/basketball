@@ -21,7 +21,7 @@
 
     <ng-template #finals>
       <div *ngIf="finals$ | async as finals" class="space-lg center">
-        <playoff-card [playoff]="finals" [season]="season"></playoff-card>
+        <playoff-card [playoff]="finals"></playoff-card>
       </div>
     </ng-template>
 

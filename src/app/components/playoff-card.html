@@ -4,8 +4,8 @@
   [routerLink]="link"
 >
   <img
-    *ngFor="let teamId of (playoff.teams)"
-    class="pixelate hardcoded-size"
-    [src]="teamId | teamLogo:season"
+    *ngFor="let teamId of playoff.teams"
+    class="pixelate img-lg"
+    [src]="teamId | teamLogo:playoff.season"
   />
 </div>
