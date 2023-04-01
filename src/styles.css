@@ -86,6 +86,10 @@ a:visited {
   gap: 10px;
 }
 
+.gap-sm-x {
+  gap: 0 10px;
+}
+
 .self-center {
   align-self: center;
 }
@@ -154,7 +158,11 @@ a:visited {
 }
 
 .primary {
-  color: orangered;
+  color: dodgerblue;
+}
+
+.neon {
+  text-shadow: darkgray 1px 0 10px;
 }
 
 .text-disable {
@@ -189,6 +197,10 @@ a:visited {
 
 .m-t-40 {
   margin-top: 40px;
+}
+
+.m-b-0 {
+  margin-bottom: 0;
 }
 
 .p {

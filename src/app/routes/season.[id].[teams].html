@@ -10,7 +10,10 @@
   <player *ngIf="vhs$ | async as vhs" [vhs]="vhs"></player>
 
   <ng-container *ngIf="games$ | async as games">
-    <div *ngIf="(gamesVisible$ | async | range) as indexes" class="evenly">
+    <div
+      *ngIf="(gamesVisible$ | async | range) as indexes"
+      class="evenly wrap gap-sm-x"
+    >
       <p
         *ngFor="let i of indexes"
         [class.active]="i === (gameIndex$ | obs | async)"
